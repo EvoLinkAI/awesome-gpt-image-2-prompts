@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/logo.png" alt="Project logo"></a>
+<a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/logo.png" alt="Project logo"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/models/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
-[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
-[![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/docs?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+[![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -29,17 +29,17 @@ awesome-gpt-image-2-prompts リポジトリへようこそ! 🤗
 
 本リポジトリの事例の多くは、X/Twitter、クリエイターコミュニティ、公開デモ、共有実験からキュレーションしたものです。
 
-Evolink で試す: [GPT-Image-2](https://evolink.ai/models/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+Evolink で試す: [GPT-Image-2](https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
 
 役に立ったら、ぜひスターをお願いします。⭐
 
 > [!NOTE]
 > このリポジトリは、Evolink 上の GPT-Image-2 向けに、再利用しやすいプロンプトパターン、参照事例、タスク別サンプルをまとめています。
 
-<a href='https://evolink.ai/models/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/🌐 Website-Evolink-orange' height="25"></a>
-<a href='https://evolink.ai/docs?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/📘 Docs-Evolink-blue' height="25"></a>
-<a href='https://evolink.ai/datasets?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/🤗 Dataset-Evolink-yellow' height="25"></a>
+<a href='https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
+<a href='https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/🌐 Website-Evolink-orange' height="25"></a>
+<a href='https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/📘 Docs-Evolink-blue' height="25"></a>
+<a href='https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/🤗 Dataset-Evolink-yellow' height="25"></a>
 
 ## News
 
@@ -116,7 +116,7 @@ Evolink で試す: [GPT-Image-2](https://evolink.ai/models/gpt-image-2?utm_sourc
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case1/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case1/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -128,7 +128,7 @@ Evolink で試す: [GPT-Image-2](https://evolink.ai/models/gpt-image-2?utm_sourc
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case2/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case2/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -140,7 +140,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case3/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case3/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -152,7 +152,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case4/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case4/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -164,7 +164,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case5/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case5/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -177,7 +177,7 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case6/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case6/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -193,7 +193,7 @@ Ultra-realistic photorealistic film photography, edgy magazine editorial aesthet
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case7/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case7/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -207,7 +207,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case8/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case8/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -221,7 +221,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case1/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case1/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -233,7 +233,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case2/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case2/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -247,7 +247,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case3/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case3/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -259,7 +259,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case4/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case4/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -279,7 +279,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case5/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case5/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -297,7 +297,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case6/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case6/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -315,7 +315,7 @@ dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case7/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case7/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -327,7 +327,7 @@ dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case8/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case8/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -347,7 +347,7 @@ dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case9/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case9/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -362,7 +362,7 @@ dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case1/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case1/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -374,7 +374,7 @@ Show me the attached image as a snapshot from an actual anime
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case2/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case2/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -393,7 +393,7 @@ Show me the attached image as a snapshot from an actual anime
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case3/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case3/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -418,7 +418,7 @@ Show me the attached image as a snapshot from an actual anime
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case4/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case4/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -432,7 +432,7 @@ Show me the attached image as a snapshot from an actual anime
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case5/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case5/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -464,7 +464,7 @@ Kusさん
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case6/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case6/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -498,7 +498,7 @@ NanoBananaProは安定で間違えなし。
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case1/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case1/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -512,7 +512,7 @@ NanoBananaProは安定で間違えなし。
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case2/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case2/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -524,7 +524,7 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case3/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case3/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -536,7 +536,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case4/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case4/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -548,7 +548,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case5/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case5/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -563,7 +563,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case6/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case6/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -589,7 +589,7 @@ T-800机器人的淘宝商品详情页，展示:
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case7/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case7/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -601,7 +601,7 @@ T-800机器人的淘宝商品详情页，展示:
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case8/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case8/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -617,7 +617,7 @@ gpt-image-2
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case1/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case1/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -634,7 +634,7 @@ gpt-image-2
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case2/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case2/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -646,7 +646,7 @@ I’m honestly blown away. GPT IMAGE 2 doesn’t “prompt” scenes, it directs
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case3/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case3/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -660,7 +660,7 @@ Mark actions and camera moves right on a reference frame → 10x more context an
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case4/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case4/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -681,7 +681,7 @@ All in seconds. Same prompt, wildly different styles.
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case5/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case5/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -696,7 +696,7 @@ Prompt : A wooden bookshelf consisting of three shelves: On the top shelf, there
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case6/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case6/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -708,7 +708,7 @@ generate an image of donald trump shaking hands with a confused joe biden as the
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case7/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case7/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -722,7 +722,7 @@ Link in the comment👇
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case8/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case8/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -736,7 +736,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case9/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case9/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -752,7 +752,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case10/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case10/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -768,7 +768,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case11/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case11/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -784,7 +784,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case12/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case12/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -799,7 +799,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case13/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case13/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -817,7 +817,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case14/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case14/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -839,7 +839,7 @@ GPT‑Image‑1.5なので同系のチャッピーでも
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case15/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case15/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -852,7 +852,7 @@ Skills化するか
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case16/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case16/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -878,7 +878,7 @@ GPT Image 2 はまだ正式リリースされてないと言っておりまし�
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case17/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case17/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -893,7 +893,7 @@ GPT Image 2 はまだ正式リリースされてないと言っておりまし�
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case18/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case18/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -909,7 +909,7 @@ GPT Image 2 はまだ正式リリースされてないと言っておりまし�
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case19/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case19/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -925,7 +925,7 @@ GPT Image 2 はまだ正式リリースされてないと言っておりまし�
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case20/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case20/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
@@ -942,7 +942,7 @@ GPT Image 2 はまだ正式リリースされてないと言っておりまし�
 
 | 出力 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case21/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/openclaw-hosting/openclaw-hosting?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case21/output.jpg" width="300" alt="出力画像"> |
 
 **プロンプト:**
 
