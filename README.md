@@ -856,6 +856,234 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 追記：SeeDance 2.0でこのグリッド残り問題、皆さんはどう解消してますか？
 似た現象出てる人や、背景情報を強くする方法のコツあったら教えてください！
 ```
+<!-- Case NEW1: Chengdu Food Map Illustration (by @Panda20230902) -->
+### Case NEW1: [Chengdu Food Map Illustration](https://x.com/Panda20230902/status/2045396918965285111) (by [@Panda20230902](https://x.com/Panda20230902))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGKoqQ9bgAA3wLt.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等，每个插画约占地图的 5% 面积，旁边用手写体标注店名和一句推荐语"凌晨两点还在排队的那家"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题"成都·吃货暴走地图"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以暖色系（辣椒红、姜黄、翠绿）为主，图片比例 1:1。
+```
+
+<!-- Case NEW2: Silhouette Universe Narrative Poster (by @MrLarus) -->
+### Case NEW2: [Silhouette Universe Narrative Poster](https://x.com/MrLarus/status/2045418028733538620) (by [@MrLarus](https://x.com/MrLarus))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGLIMdFWwAAVBD9.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+请根据【主题：xxx】自动生成一张高审美的“轮廓宇宙 / 收藏版叙事海报”风格作品。不要将画面局限于固定器物或常见容器，不要优先默认瓶子、沙漏、玻璃罩、怀表之类的常规载体，而是由 AI 根据主题自行判断并选择一个最契合、最有象征意义、轮廓最强、最适合承载完整叙事世界的主轮廓载体。这个主轮廓可以是器物、建筑、门、塔、拱门、穹顶、楼梯井、长廊、雕像、侧脸、眼睛、手掌、头骨、羽翼、面具、镜面、王座、圆环、裂缝、光幕、阴影、几何结构、空间切面、舞台框景、抽象符号或其他更有创意与主题代表性的视觉轮廓，要求合理布局。优先选择最能放大主题气质、最能形成强烈视觉记忆点、最能体现史诗感、神秘感、诗意感或设计感的轮廓，而不是最安全、最普通、最常见的容器。
+
+画面的核心不是简单把世界装进某个物体里，而是让完整的主题世界自然生长在这个主轮廓之中、之内、之上、之边界里或与其结构融为一体，形成一种“主题宇宙依附于一个象征性轮廓展开”的高级叙事效果。主轮廓必须清晰、优雅、有辨识度，并在整体构图中占据核心地位。轮廓内部或边界中需要自动生成与主题强绑定的完整叙事世界，内容应当丰富、饱满、层次清晰，包括最能代表主题的标志性场景、核心建筑或空间结构、象征符号与隐喻元素、角色关系或文明痕迹、远景中景近景的空间递进、具有命运感和情绪张力的氛围层次，以及门、台阶、桥梁、水面、烟雾、路径、光源、遗迹、机械结构、自然景观、抽象形态、生物或道具等叙事细节。所有元素必须统一、自然、有主次、有层级地融合，像一个完整世界真实孕育在这个轮廓结构之中，而不是简单拼贴、裁切填充、素材堆叠或模板化背景。
+
+整体构图需要具有强烈的收藏版海报气质与高级设计感，大结构稳定，主轮廓强烈明确，内部世界具有纵深、秩序和呼吸感，细节丰富但不拥挤，内容丰满但不杂乱，可以适度加入小比例人物剪影、远处建筑、光柱、门洞、桥、阶梯、回廊、倒影、天光或远景结构来增强尺度感、故事感与史诗感。整体画面要安静、宏大、凝练、富有余味，不要平均铺满，不要廉价热闹，不要无重点堆砌。
+
+风格融合收藏版电影海报构图、高级叙事型视觉设计、梦幻水彩质感与纸张印刷品气质，强调纸张颗粒感、边缘飞白、水彩刷痕、轻微晕染、空气透视、柔和雾化、局部体积光、光雾穿透、大面积留白与克制版式，让画面看起来像设计师完成的高端收藏版视觉作品，而不是普通 AI 跑图。整体气质要高级、诗意、宏大、神圣、怀旧、安静、具有传说感和叙事感。
+
+色彩由 AI 根据主题自动判断并匹配最合适的高级配色方案，但必须保持统一、克制、耐看、低饱和、高级，不要杂乱高饱和，不要廉价霓虹感，不要塑料数码感。配色可以围绕黑金灰、冷蓝灰、雾白灰、褐红米白、暗铜、旧纸色、深海蓝、暮色紫、银灰等体系自由变化，但必须始终服务主题，并保持海报级审美与整体和谐。
+
+最终要求：第一眼有强烈的主题识别度和轮廓记忆点，第二眼有完整丰富的叙事世界，第三眼仍有细节和余味。轮廓选择必须具有创意和主题匹配度，尽量避免重复、保守、常见的容器套路，优先选择更有象征性、更有空间感、更有设计潜力的轮廓形式。不要普通背景拼接，不要生硬裁切，不要模板化奇幻素材，不要游戏宣传图感，不要过度卡通化，不要过度写实导致失去艺术感，不要形式大于内容。如果合适，可以自然加入低调克制的标题、编号、签名或落款，让它更像收藏版海报设计的一部分，但不要喧宾夺主。
+```
+
+<!-- Case NEW3: Photoreal Open School Textbooks (by @XiaohuiAI666) -->
+### Case NEW3: [Photoreal Open School Textbooks](https://x.com/XiaohuiAI666/status/2045437424491430018) (by [@XiaohuiAI666](https://x.com/XiaohuiAI666))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGLY_sLaEAADOS-.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+“书桌上摆着两本摊开的书，一本书是小学语文课本，一本是小学数学课本，课本内容清晰，写实风格。”
+
+生成的结果很不错，两本书的内容几乎不存在错误，如果一定要吹毛求疵的话，数学课本的内容节奏似乎有些快。
+
+大家有使用上GPT-image-2模型吗？欢迎在留言区分享你的生成结果。
+```
+
+<!-- Case NEW4: Catalog Outfit Street Style Shot (by @VORTEX_Promos) -->
+### Case NEW4: [Catalog Outfit Street Style Shot](https://x.com/VORTEX_Promos/status/2045454361606693212) (by [@VORTEX_Promos](https://x.com/VORTEX_Promos))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGLpuyzbkAAx2CC.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+“street style shot of a woman in this outfit.”
+By the way, if you want to check whether it’s been rolled out to you, just try asking for an image in 16:9 or 21:9.  https://t.co/2lfzhhWB03
+```
+
+<!-- Case NEW5: Spring Guangzhou City Poster (by @alanlovelq) -->
+### Case NEW5: [Spring Guangzhou City Poster](https://x.com/alanlovelq/status/2045484598487060917) (by [@alanlovelq](https://x.com/alanlovelq))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGMFZP3asAEhQyj.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。
+双重曝光，构图延续了S型的流动感；
+在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。
+在这条“河流”中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。
+广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。
+云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。
+文字排版优美，大方，字迹清晰完整，尺寸9:16。
+```
+
+<!-- Case NEW6: Museum-Style Hanfu Breakdown Infographic (by @MrLarus) -->
+### Case NEW6: [Museum-Style Hanfu Breakdown Infographic](https://x.com/MrLarus/status/2045504669401653414) (by [@MrLarus](https://x.com/MrLarus))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGMWXPObQAAPnA0.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。
+
+要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。
+
+整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图，而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。
+
+版式固定为：
+- 顶部：中文主标题 + 副标题 + 导语
+- 左侧：结构拆解区，中文引线标注关键部件，并配局部特写
+- 右上：材质 / 工艺 / 质感区，展示真实纹理小样并附说明
+- 右中：纹样 / 色彩 / 寓意区，展示主色板、纹样样本和文化解释
+- 底部：穿着顺序 / 构成流程图 + 核心特征总结
+
+若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。
+
+避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。
+```
+
+<!-- Case NEW7: Qiongqi Eastern Aesthetics Poster (by @liyue_ai) -->
+### Case NEW7: [Qiongqi Eastern Aesthetics Poster](https://x.com/liyue_ai/status/2045506567735558336) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGMYmiXa0AA0iZu.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+极简主义，新中式风格立体图形设计，图像下端有楷体中国文字：“东方美学”，“2026/04/18”，署名 “CHINA”，和“@LIYUE"；
+平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画，不规则的撕纸效果；
+中国的神兽：穷奇，身形图案完整，美轮美奂，，线条柔美灵动,眼睛炯炯有神，威严的神态，优雅的姿势，奢华装饰艺术，中国传统纹饰；
+荧光蓝色线条，0.5mm极细金色金属质感勾边，泼白墨大笔触，色彩渲染，红底，蓝色的浪漫诗意视觉；
+冷暖光交织的梦幻唯美场景，强烈的光影对比氛围，花轻舞的时光叙事，东风禅意，画面有大面积留白，框架构图，底部留白，细节清晰。
+```
+
+<!-- Case NEW8: Guangzhou Paper-Cut City Poster (by @liyue_ai) -->
+### Case NEW8: [Guangzhou Paper-Cut City Poster](https://x.com/liyue_ai/status/2045527750606487877) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGMseVlbMAEe4DS.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+以珠江新城现代都市景观为灵感的剪纸艺术，通过精巧的镂空手法在一整幅纸上，立体刻画广州塔、东西双塔等地标建筑与繁华城景。
+所有建筑与元素均以流畅的线条与结构相连，无孤立部分，构成一幅完整的都市画卷。
+画面采用金属箔或光泽纸材质，表面带有细腻的明暗光泽，在光照下呈现柔和的高光与阴影，仿佛被城市灯光轻轻照亮。
+背景以虚化的珠江新城天际线为衬，点缀隐约可见的花城广场与树木轮廓，整体透出现代浪漫的氛围。
+作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点，象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉，细节丰富，真实而富有艺术感染力。
+```
+
+<!-- Case NEW9: Extreme Perspective Typography Bridge (by @xpg0970) -->
+### Case NEW9: [Extreme Perspective Typography Bridge](https://x.com/xpg0970/status/2045560665071579160) (by [@xpg0970](https://x.com/xpg0970))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGNH8hhbAAAPIYe.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+①场景 跨海大桥的侧面，dramatic cinematic angle。 巨型 bold sans-serif 文字「___②文字内容 跨海大桥」painted onto the surface of ___③主体物 无，从靠近镜头的前端开始，沿表面向远端 progressively foreshortens 逐渐透视压缩，letterforms conform to surface curvature 贴合物体曲面，surface-integrated not floating。 文字部分区域被 无___④前景遮挡物 无___ occluded and hidden，在间隙中露出， 形成 depth-layering 纵深穿插效果。 Oversized bright yellow + sharp orange outline，extreme perspective distortion aligned to vanishing point。Cinematic lighting, motion blur, poster-grade dynamic integrated typography, modern advertising aesthetics。
+```
+
+<!-- Case NEW10: Luxury Editorial Bookshelf (by @SRKDAN) -->
+### Case NEW10: [Luxury Editorial Bookshelf](https://x.com/SRKDAN/status/2045683829700964821) (by [@SRKDAN](https://x.com/SRKDAN))
+
+| Output |
+| :----: |
+| Output preview unavailable |
+
+**Prompt:**
+
+```
+Luxury Editorial Bookshelf | GPT Image-2 Prompt #73
+
+A 2x2 grid of four campaign-style shelf scenes, each a completely different brand world.
+
+Full prompt + variables in 🧵
+```
+
+<!-- Case NEW11: Lion Camel Ridge Dark Myth Scene (by @MANISH1027512) -->
+### Case NEW11: [Lion Camel Ridge Dark Myth Scene](https://x.com/MANISH1027512/status/2045743158860878312) (by [@MANISH1027512](https://x.com/MANISH1027512))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGPvYyCaYAAAkeN.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+中式怪异，黑暗神秘风格融合中式美学，完美细节，多重管线渲染，完美建模。西游记背景，狮驼岭，千妖万怪，坐在左边巨大王座上的大象王重甲妖精，坐在中间巨大王座上的狮王重甲妖精，坐在右边巨大王座上大鹏鸟王重甲妖精。渺小的背对镜头孙悟空肩抗金箍棒步行前进，孙悟空身穿铠甲，近地仰拍镜头，长焦镜头，强烈阴影。极致细节刻画，多次修改，正确透视和主体线条，精致细节
+```
+
+<!-- Case NEW12: Guangzhou Minimal City Illustration (by @liyue_ai) -->
+### Case NEW12: [Guangzhou Minimal City Illustration](https://x.com/liyue_ai/status/2045744531686166878) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGPxyjwbAAAYkgo.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+新中式极简风格高端城市海报，9:16竖版构图，以广州为核心主题，画面中心为抽象几何化的广州塔，造型简洁但具有辨识度，
+
+整体采用S型流动构图，从下方向上延展，珠江水系被设计为流动的水波纹与传统祥云纹样融合，环绕整个画面形成视觉动线，
+
+广州地标建筑以“留白+线描+局部色块”的方式点缀其中：珠江新城双塔、猎德大桥、白云山轮廓、岭南骑楼，
+传统与现代建筑自然融合，层次递进，远近虚实分明，
+
+风格控制：极简 + 高级 + 东方意境，不杂乱不过度写实，
+
+色彩方案（重点）：
+高饱和但克制 ，中国红、青蓝、鎏金为主色，
+辅以少量暖金高光点缀，形成强烈视觉冲击但不俗艳，
+
+背景：大面积纯净留白或淡宣纸肌理，增强呼吸感与高级感，
+
+细节：祥云与水纹具有轻微浮雕/烫金质感，
+局部加入微光粒子或流动光线，增强现代感，
+
+光影：柔和渐变光+局部高光，突出恢弘大气氛围，
+
+整体风格：国潮高级插画 / 品牌海报级质感 / 8K / 超清细节
+
+---
+注：提示词经ChatGPT优化
+```
+
+
 ## Acknowledge
 
 This repository was inspired by outstanding open prompt collections and community-shared GPT-Image-2 experiments.
