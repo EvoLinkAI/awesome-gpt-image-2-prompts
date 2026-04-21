@@ -77,7 +77,6 @@ Wenn dir das nuetzt, gib dem Repository gern einen Star. ⭐
   - [Fall 1: Umwandlung in einen Anime-Schnappschuss (by @Thereallo1026)](#case-1-anime-snapshot-conversion-by-thereallo1026)
   - [Fall 2: Persona5-Referenzkarte fuer einen Charakter (by @iamrednightS)](#case-2-persona5-character-reference-card-by-iamrednights)
   - [Fall 3: Charaktervorstellungsseite im Galgame-Stil (by @09lyco)](#case-3-gal-game-character-introduction-page-by-09lyco)
-  - [Fall 4: Referenzblatt fuer einen Chibi-Charakter (by @tsubaki_ew)](#case-4-chibi-character-reference-sheet-by-tsubaki_ew)
   - [Fall 5: Offizielles Charakterblatt (JP) (by @Toshi_nyaruo_AI)](#case-5-official-character-sheet-jp-by-toshi_nyaruo_ai)
 - [UI- und Social-Media-Mockup-Faelle](#ui-und-social-media-mockup-faelle)
   - [Fall 1: UI-Design-Generierung mit nur einem Prompt (by @austinit)](#case-1-one-prompt-ui-design-generation-by-austinit)
@@ -89,26 +88,9 @@ Wenn dir das nuetzt, gib dem Repository gern einen Star. ⭐
   - [Fall 8: X-Seite von Koenig Taejo Yi Seong-gye (by @SKA_Neotype)](#case-8-king-taejo-yi-seong-gyes-x-page-by-ska_neotype)
   - [Fall 25: Hanfu-Infografik im Museumsstil mit Aufschluesselung (by @MrLarus)](#case-25-museum-style-hanfu-breakdown-infographic-by-mrlarus)
 - [Vergleiche und Community-Beispiele](#vergleiche-und-community-beispiele)
-  - [Fall 1: Modellvergleich: GPT Image 2 vs Nano Banana 2 (by @desds1678)](#case-1-model-comparison-gpt-image-2-vs-nano-banana-2-by-desds1678)
-  - [Fall 2: Direktes Regiefuehren auf dem Referenzframe (by @samifox_ai)](#case-2-direct-on-reference-frame-directing-by-samifox_ai)
-  - [Fall 3: Szenenregie mit Referenzframe (by @HuliJason)](#case-3-reference-frame-scene-direction-by-hulijason)
-  - [Fall 4: Showcase zum Launch von GPT-Image-2 (by @MikelEcheve)](#case-4-gpt-image-2-launch-showcase-by-mikelecheve)
   - [Fall 5: Prompt-Test mit einem Holzregal (by @chetaslua)](#case-5-wooden-bookshelf-prompt-test-by-chetaslua)
-  - [Fall 7: Showcase GPT Image 2 vs Nano Banana 2 (by @zerolu_eth)](#case-7-gpt-image-2-vs-nano-banana-2-showcase-by-zerolu_eth)
-  - [Fall 8: Arena-Test fuer den ersten Eindruck (by @Cheney_NehcOal)](#case-8-arena-first-impression-test-by-cheney_nehcoal)
-  - [Fall 9: Glatzenfoto-Test mit Prompt-Wechsel (by @cnzoecomeback)](#case-9-prompt-swap-bald-photo-test-by-cnzoecomeback)
   - [Fall 10: Detail-Showcase fuer GPT-Image-2 (by @liyue_ai)](#case-10-gpt-image-2-detail-showcase-by-liyue_ai)
-  - [Fall 11: Blinder Vergleich GPT vs Banana (by @linxiaobei888)](#case-11-gpt-vs-banana-blind-comparison-by-linxiaobei888)
-  - [Fall 12: Layout-Test GPT-Image-2 vs Nano Banana 2 (by @old_pgmrs_will)](#case-12-gpt-image-2-vs-nano-banana-2-layout-test-by-old_pgmrs_will)
-  - [Fall 13: Tipps fuer iteratives Prompt-Tuning (by @kotsu_kotsu_san)](#case-13-iterative-prompt-tuning-tips-by-kotsu_kotsu_san)
-  - [Fall 14: Copilot-Prompt-Freigabe (JP/EN) (by @samayousakadaru)](#case-14-copilot-prompt-share-jpen-by-samayousakadaru)
-  - [Fall 15: Bildgenerierungs-Agent ueber Claude Code (by @old_pgmrs_will)](#case-15-image-generation-agent-via-claude-code-by-old_pgmrs_will)
   - [Fall 16: Signierte Ausgabe aus einem A/B-Test (by @saskr_13)](#case-16-ab-test-signed-output-by-saskr_13)
-  - [Fall 17: Showcase zum Text-Rendering von duct-tape-1 (by @kawai_design)](#case-17-duct-tape-1-text-rendering-showcase-by-kawai_design)
-  - [Fall 18: Organizer fuer Charakter-Setting-Materialien (by @otohitoyuuki)](#case-18-character-setting-material-organizer-by-otohitoyuuki)
-  - [Fall 19: MAI-Image-2 vs GPT vs Nano Banana Pro (by @old_pgmrs_will)](#case-19-mai-image-2-vs-gpt-vs-nano-banana-pro-by-old_pgmrs_will)
-  - [Fall 20: Showcase fuer Whiteboard-Zeichnungen (by @jrpj2010)](#case-20-whiteboard-drawing-showcase-by-jrpj2010)
-  - [Fall 21: Kombination aus SeeDance 2.0 und GPT-Image-2 (by @CEs7J0Mfn8x37k5)](#case-21-seedance-20-gpt-image-2-combo-by-ces7j0mfn8x37k5)
   - [Fall 23: Narratives Poster mit Silhouetten-Universum (by @MrLarus)](#case-23-silhouette-universe-narrative-poster-by-mrlarus)
   - [Fall 29: Dunkle Mythenszene am Loewen-Kamel-Grat (by @MANISH1027512)](#case-29-lion-camel-ridge-dark-myth-scene-by-manish1027512)
   - [Fall 30: Luxurioeses Editorial-Buecherregal (by @SRKDAN)](#case-30-luxury-editorial-bookshelf-by-srkdan)
@@ -188,8 +170,6 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 ```
 Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy vanilla, silk press, mahogany red, subtle confidence, textured fabric, sapphire blue, minimal jewelry, beachside breeze, lens flare effect, nostalgic, cinematic lens, symmetrical composition, soft focus, high fashion photography, monochromatic, dewy finish, mysterious tension, layered elements
-
-*Found on Midjourney’s Explore page.
 ```
 <!-- Fall 8: 9:16-Cosplayer-Portraet als Screenshot (by @Zoulinshen) -->
 ### Fall 8: [9:16-Cosplayer-Portraet als Screenshot](https://x.com/Zoulinshen/status/2045082518089810073) (by [@Zoulinshen](https://x.com/Zoulinshen))
@@ -227,8 +207,6 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 **Prompt:**
 
 ```
-Test new GPT-Image-2 
-
 Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style, illustration with loose strokes and defined contours. High-contrast color palette, maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.
 ```
 <!-- Fall 3: Illustration einer Chengdu-Food-Map (by @Panda20230902) -->
@@ -303,14 +281,6 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 **Prompt:**
 
 ```
-でChatGPTで画像を作成してもらって、今日また作成してもらったらGPT image 2かもしれず、出来が変わったように見えるのでメモ
-
-左の水色と黄色のが先週
-右の紫のが今日
-
-右のは透明感とか解像度、緻密さが違うような気がする…
-
-プロンプト
 曼荼羅の近未来SF版を描いて
 ```
 <!-- Fall 9: Poster-Stil im Super-Famicom-Look (by @lilimliliychan) -->
@@ -323,8 +293,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 **Prompt:**
 
 ```
-が「小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて」に　画像数枚だけで
-このクオリティ　細かい説明呪文なし　すごいぜ！
+小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて
 ```
 <!-- Fall 22: Illustration einer Chengdu-Food-Map (by @Panda20230902) -->
 ### Fall 22: [Illustration einer Chengdu-Food-Map](https://x.com/Panda20230902/status/2045396918965285111) (by [@Panda20230902](https://x.com/Panda20230902))
@@ -446,9 +415,6 @@ Show me the attached image as a snapshot from an actual anime
 ・添加角色面部表情的变化・分解并展示服装和装备的详细部分
 ・添加色板・包含世界观设定的简要说明
 ・总体上，使用有组织的布局（白色背景，插画风格）高分辨率、专业概念艺术风格
-#Persona5
-------
-@grok 你要不要也试试用第一张图片加prompt生成一张？
 ```
 <!-- Fall 3: Charaktervorstellungsseite im Galgame-Stil (by @09lyco) -->
 ### Fall 3: [Charaktervorstellungsseite im Galgame-Stil](https://x.com/09lyco/status/2045281845391323175) (by [@09lyco](https://x.com/09lyco))
@@ -460,9 +426,6 @@ Show me the attached image as a snapshot from an actual anime
 **Prompt:**
 
 ```
-埋まってないところはパートナーさんかご自身で埋めてあげてください
- #観測塔朝お題  #観測塔おはようお題
-
 最新モデルの画像生成ツールを使用して、
 このちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）
 ギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。
@@ -475,20 +438,7 @@ Show me the attached image as a snapshot from an actual anime
 体重:（ここに体重）kg
 キャッチコピー:“「ここにセリフ」”
 ```
-<!-- Fall 4: Referenzblatt fuer einen Chibi-Charakter (by @tsubaki_ew) -->
-### Fall 4: [Referenzblatt fuer einen Chibi-Charakter](https://x.com/tsubaki_ew/status/2045259289993048284) (by [@tsubaki_ew](https://x.com/tsubaki_ew))
 
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case4/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-お借りして噂のGPT-Image-2でキャラシート作ってみましたｽｺﾞｯ(๑°ㅁ°๑)‼✧更に色々指示してあげたらもっといい感じになりそう✨キャラは以前チャッピーにお願いして描いて貰った我が分身です( *¯ ꒳¯*)
-#GPTimage
-#AI生成
-```
 <!-- Fall 5: Offizielles Charakterblatt (JP) (by @Toshi_nyaruo_AI) -->
 ### Fall 5: [Offizielles Charakterblatt (JP)](https://x.com/Toshi_nyaruo_AI/status/2045025277538107420) (by [@Toshi_nyaruo_AI](https://x.com/Toshi_nyaruo_AI))
 
@@ -499,27 +449,14 @@ Show me the attached image as a snapshot from an actual anime
 **Prompt:**
 
 ```
-をお借りして、GPTImage2？でキャラクターシートを作成しました。
-
-指示文を少し付け加えました。
-
----
 このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 
 ・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 
 ・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる 
 ・全体は整理されたレイアウト
 （白背景、図解風） 
-・アスペクト比16：9 　←
+・アスペクト比16：9
 
 高解像度、プロのコンセプトアートスタイル
-
----
-
-何回か出力しましたが、毎回キャラクターの説明や世界観のところが変化して楽しかったです。
-
-Kusさん
-ありがとうございます🤩
-#AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️
 ```
 ## UI- und Social-Media-Mockup-Faelle
 
@@ -534,11 +471,6 @@ Kusさん
 
 ```
 用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮 以及其它
-
-把这套视觉风格作为参考生成网页
-那视觉品质直接提升好几个level
-
-我尝试了宇宙、飞行、蝴蝶主题，期待你的脑洞，可以丢在评论区
 ```
 <!-- Fall 2: Amateurhaftes iPhone-Keynote-Foto (by @patrickassale) -->
 ### Fall 2: [Amateurhaftes iPhone-Keynote-Foto](https://x.com/patrickassale/status/2044687244368441742) (by [@patrickassale](https://x.com/patrickassale))
@@ -613,9 +545,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 **Prompt:**
 
 ```
-👍프롬프트 :
 태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.
-gpt-image-2
 ```
 <!-- Fall 25: Hanfu-Infografik im Museumsstil mit Aufschluesselung (by @MrLarus) -->
 ### Fall 25: [Hanfu-Infografik im Museumsstil mit Aufschluesselung](https://x.com/MrLarus/status/2045504669401653414) (by [@MrLarus](https://x.com/MrLarus))
@@ -646,65 +576,7 @@ gpt-image-2
 ```
 ## Vergleiche und Community-Beispiele
 
-<!-- Fall 1: Modellvergleich: GPT Image 2 vs Nano Banana 2 (by @desds1678) -->
-### Fall 1: [Modellvergleich: GPT Image 2 vs Nano Banana 2](https://x.com/desds1678/status/2045144798454280411) (by [@desds1678](https://x.com/desds1678))
 
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case1/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-，不同模型的风格倾向，这次GPT更新太惊艳，审美和细节都可谓是赶超…
-```
-<!-- Fall 2: Direktes Regiefuehren auf dem Referenzframe (by @samifox_ai) -->
-### Fall 2: [Direktes Regiefuehren auf dem Referenzframe](https://x.com/samifox_ai/status/2044898023159853100) (by [@samifox_ai](https://x.com/samifox_ai))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case2/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-I’m honestly blown away. GPT IMAGE 2 doesn’t “prompt” scenes, it directs them. Mark actions and camera moves right on a reference frame → 10x more context and near-total control in one shot #gptimage2 #seedance2
-```
-<!-- Fall 3: Szenenregie mit Referenzframe (by @HuliJason) -->
-### Fall 3: [Szenenregie mit Referenzframe](https://x.com/HuliJason/status/2044894209673490495) (by [@HuliJason](https://x.com/HuliJason))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case3/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-I’m honestly blown away.
-GPT IMAGE 2 doesn’t “prompt” scenes, it directs them.
-Mark actions and camera moves right on a reference frame → 10x more context and near-total control in one shot #gptimage2 #seedance2
-```
-<!-- Fall 4: Showcase zum Launch von GPT-Image-2 (by @MikelEcheve) -->
-### Fall 4: [Showcase zum Launch von GPT-Image-2](https://x.com/MikelEcheve/status/2044703635024621703) (by [@MikelEcheve](https://x.com/MikelEcheve))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case4/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-GPT-Image-2 is rolling out 👀
-
-@OpenAI just leveled up image generation:
-
-• handwritten notes
-• realistic ads
-• posters
-• anime art
-
-All in seconds. Same prompt, wildly different styles.
-```
 <!-- Fall 5: Prompt-Test mit einem Holzregal (by @chetaslua) -->
 ### Fall 5: [Prompt-Test mit einem Holzregal](https://x.com/chetaslua/status/2044331451077013749) (by [@chetaslua](https://x.com/chetaslua))
 
@@ -715,55 +587,10 @@ All in seconds. Same prompt, wildly different styles.
 **Prompt:**
 
 ```
-Duct-tape-2 just solved the prompt ONE SHOT
-None of the current sota able to solve in 3 attempts
-Nanobanana Pro 🍌, Nano banana 2🍌 & Gpt-image-1.5
-Prompt : A wooden bookshelf consisting of three shelves: On the top shelf, there should be one book, on the second shelf, there should be three books, and on the bottom shelf, there should be seven books.
+A wooden bookshelf consisting of three shelves: On the top shelf, there should be one book, on the second shelf, there should be three books, and on the bottom shelf, there should be seven books.
 ```
-<!-- Fall 7: Showcase GPT Image 2 vs Nano Banana 2 (by @zerolu_eth) -->
-### Fall 7: [Showcase GPT Image 2 vs Nano Banana 2](https://x.com/zerolu_eth/status/2044981771641798862) (by [@zerolu_eth](https://x.com/zerolu_eth))
 
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case7/output.jpg" width="300" alt="Ergebnisbild"> |
 
-**Prompt:**
-
-```
-GPT Image v2 almost beat Nano Banana 2 in every categories!
-UI replication, casual photos, you name it!
-Link in the comment👇
-```
-<!-- Fall 8: Arena-Test fuer den ersten Eindruck (by @Cheney_NehcOal) -->
-### Fall 8: [Arena-Test fuer den ersten Eindruck](https://x.com/Cheney_NehcOal/status/2044249215635976677) (by [@Cheney_NehcOal](https://x.com/Cheney_NehcOal))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case8/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-Tested GPT-Image 2 on Arena today.
-
-First impression: the jump in aesthetics is very noticeable. Portraits feel more cinematic, product shots look cleaner, and creative poster-style prompts are much stronger than before.
-```
-<!-- Fall 9: Glatzenfoto-Test mit Prompt-Wechsel (by @cnzoecomeback) -->
-### Fall 9: [Glatzenfoto-Test mit Prompt-Wechsel](https://x.com/cnzoecomeback/status/2045316010635608428) (by [@cnzoecomeback](https://x.com/cnzoecomeback))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case9/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-和一张图（图2）
-
-提示词“生成一个 然后秃子的照片扔给它.....
-
-服
-```
 <!-- Fall 10: Detail-Showcase fuer GPT-Image-2 (by @liyue_ai) -->
 ### Fall 10: [Detail-Showcase fuer GPT-Image-2](https://x.com/liyue_ai/status/2045000106919997637) (by [@liyue_ai](https://x.com/liyue_ai))
 
@@ -786,90 +613,8 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 整体呈现梦幻眼眸四季交替的唯美梦幻治愈画面，微调各屏的光影强度，让画面氛围感更浓郁。
 ```
-<!-- Fall 11: Blinder Vergleich GPT vs Banana (by @linxiaobei888) -->
-### Fall 11: [Blinder Vergleich GPT vs Banana](https://x.com/linxiaobei888/status/2044947911495336262) (by [@linxiaobei888](https://x.com/linxiaobei888))
 
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case11/output.jpg" width="300" alt="Ergebnisbild"> |
 
-**Prompt:**
-
-```
-，你们觉得哪个更好？
-
-哪一个是香蕉的，哪一个是gpt 的？
-
-评论区揭晓答案
-```
-<!-- Fall 12: Layout-Test GPT-Image-2 vs Nano Banana 2 (by @old_pgmrs_will) -->
-### Fall 12: [Layout-Test GPT-Image-2 vs Nano Banana 2](https://x.com/old_pgmrs_will/status/2045379349399101707) (by [@old_pgmrs_will](https://x.com/old_pgmrs_will))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case12/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-で
-☝️GPT-Image-2
-👇Nano Banana 2
-スタイルもかなり違うけど、細かいレイアウティングになるほど GPT-Image-2 のほうがキレイに生成してくれる... そしてプロンプト追従性が圧倒的に高い
-```
-<!-- Fall 13: Tipps fuer iteratives Prompt-Tuning (by @kotsu_kotsu_san) -->
-### Fall 13: [Tipps fuer iteratives Prompt-Tuning](https://x.com/kotsu_kotsu_san/status/2045377402466107398) (by [@kotsu_kotsu_san](https://x.com/kotsu_kotsu_san))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case13/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-にする
-4.そのプロンプトで Arena AI と ChatGPT を回す
-5.日本語精度とビジュアルがどちらも強いものが出たら当たり
-
-コツは、1発で決めにいかないことです。
-同じ題材を少しずつずらして回すと、急に当たりが出ます。
-#AIart #GPT
-```
-<!-- Fall 14: Copilot-Prompt-Freigabe (JP/EN) (by @samayousakadaru) -->
-### Fall 14: [Copilot-Prompt-Freigabe (JP/EN)](https://x.com/samayousakadaru/status/2045077212328816737) (by [@samayousakadaru](https://x.com/samayousakadaru))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case14/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-を公開
-GPT‑Image‑1.5なので同系のチャッピーでも
-
-1.Copilotを開く
-
-2.プロンプト（画像のALT）を入れる
-3.楽しい
-
-プロンプトは画像の左下ALTに入れてあります
-左：日本語　右：英語
-自分好みにプロンプトをアレンジしてみてね
-```
-<!-- Fall 15: Bildgenerierungs-Agent ueber Claude Code (by @old_pgmrs_will) -->
-### Fall 15: [Bildgenerierungs-Agent ueber Claude Code](https://x.com/old_pgmrs_will/status/2044808935228715118) (by [@old_pgmrs_will](https://x.com/old_pgmrs_will))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case15/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-生成エージェントを Claude Code で試作 
-Skills化するか
-```
 <!-- Fall 16: Signierte Ausgabe aus einem A/B-Test (by @saskr_13) -->
 ### Fall 16: [Signierte Ausgabe aus einem A/B-Test](https://x.com/saskr_13/status/2044744396932079934) (by [@saskr_13](https://x.com/saskr_13))
 
@@ -880,109 +625,10 @@ Skills化するか
 **Prompt:**
 
 ```
-をシェアします💗🤣
-GPT Image 2 はまだ正式リリースされてないと言っておりましたが、添付した 2 枚は「 A / B どちらが良いか」選ばせるタイプでした。
-よく見ると右下にサインまで…！
-これが噂の 2 なのでしょうか？
-懐かしの「私がどんなふうに扱ったか」シリーズです(笑)
---------------------
-✅#prompt : 
 私があなたをどんなふうに扱ってきたか、4 コマ漫画風に描いてください。まずは 800 字くらいのプロットをテキストで出して、私が「描いて」と言ったらプロットに沿った 4 コマ漫画を描いてください。
---------------------
-まずテキストを生成しますので、そのあと「描いて」と送ってください。その前に画風など指定するのも良いかと思います。
-
-画風は「アクリル水彩の油絵＋現代風の大人の成熟したカップルで、実写じゃなくて少女漫画風に描いて欲しい」とお願いしました☺
-間違えて「アクリル水彩の油絵」と書いちゃいましたが…(笑)
-おなじタッチが出て来るか分かりませんが、いろいろなシチュエーションで試してみようと思います(^^♪
-大事なところに線をひいておきました🤣
 ```
-<!-- Fall 17: Showcase zum Text-Rendering von duct-tape-1 (by @kawai_design) -->
-### Fall 17: [Showcase zum Text-Rendering von duct-tape-1](https://x.com/kawai_design/status/2044739028420079840) (by [@kawai_design](https://x.com/kawai_design))
 
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case17/output.jpg" width="300" alt="Ergebnisbild"> |
 
-**Prompt:**
-
-```
-を試し続けたらGPT Image 2だと噂される「duct-tape-1」が登場しました。文字の描画とレイアウトのユニークさが特徴だと感じます。
-
-これをデフォルトで使えるとなると...
-たくさん実験したくてウズウズします。
-```
-<!-- Fall 18: Organizer fuer Charakter-Setting-Materialien (by @otohitoyuuki) -->
-### Fall 18: [Organizer fuer Charakter-Setting-Materialien](https://x.com/otohitoyuuki/status/2044579818667487394) (by [@otohitoyuuki](https://x.com/otohitoyuuki))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case18/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-に書いてるんだというツッコミは後にして😅、細部の設定をわかりやすくまとめてくれています。
-
-正直、設定資料（画像系AI登場前なのですべてテキスト）が多すぎて（ストーリーと合わせると１４万文字）本人でさえ何がなんだか分からなくなってた情報が、これで整理できそう。
-
-いまのところ確実に使う方法はないみたいだけど、期待しちゃうなあ。
-```
-<!-- Fall 19: MAI-Image-2 vs GPT vs Nano Banana Pro (by @old_pgmrs_will) -->
-### Fall 19: [MAI-Image-2 vs GPT vs Nano Banana Pro](https://x.com/old_pgmrs_will/status/2044356515751231527) (by [@old_pgmrs_will](https://x.com/old_pgmrs_will))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case19/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-で
-☝️MAI-Image-2-Efficient
-👉GPT-Image-2️
-👇Nano Banana Pro
-個人的好みは GPT-Image-2
-```
-<!-- Fall 20: Showcase fuer Whiteboard-Zeichnungen (by @jrpj2010) -->
-### Fall 20: [Showcase fuer Whiteboard-Zeichnungen](https://x.com/jrpj2010/status/2044817134761767306) (by [@jrpj2010](https://x.com/jrpj2010))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case20/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-もこのレベル📷
-やべ〜
-いよいよ当人のYoutube板書レベルに・・・いや超えてね！？
-
-1.5年前はこのレベルで発狂してたかと思うと感慨深い・・・
-→
-```
-<!-- Fall 21: Kombination aus SeeDance 2.0 und GPT-Image-2 (by @CEs7J0Mfn8x37k5) -->
-### Fall 21: [Kombination aus SeeDance 2.0 und GPT-Image-2](https://x.com/CEs7J0Mfn8x37k5/status/2044386564491632823) (by [@CEs7J0Mfn8x37k5](https://x.com/CEs7J0Mfn8x37k5))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case21/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-適当でも成立
-・低Quality動画でも自然に補完
-・ただし建物のグリッド残り＝背景情報不足
-
-→ 静止画1枚じゃ足りない
-→ 背景は“複数 or 動画で持たせる”が正解
-
-GPTimage2との組み合わせがかなり良さそうで楽しみ。
-（まだ自分には来てない…）
-
-追記：SeeDance 2.0でこのグリッド残り問題、皆さんはどう解消してますか？
-似た現象出てる人や、背景情報を強くする方法のコツあったら教えてください！
-```
 ## Danksagungen
 <!-- Fall 23: Narratives Poster mit Silhouetten-Universum (by @MrLarus) -->
 ### Fall 23: [Narratives Poster mit Silhouetten-Universum](https://x.com/MrLarus/status/2045418028733538620) (by [@MrLarus](https://x.com/MrLarus))
