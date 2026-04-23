@@ -2002,3 +2002,974 @@ If you have more interesting GPT-Image-2 prompt cases to share, feel free to rea
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gpt-image-2-prompts&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gpt-image-2-prompts&Date)
+
+### Case 60: A full-body outdoor shot captures a young Caucasian woman, possibly in her late 20s, strid
+
+![Case 60](images/poster_case60/output.jpg)
+
+**Prompt:**
+```
+A full-body outdoor shot captures a young Caucasian woman, possibly in her late 20s, striding through a city crosswalk. She wears an oversized, matte chocolate-brown leather jacket paired with a free-flowing black skirt and sleek knee-high black boots, conveying a sense of high fashion street style. Her long, dark brown hair is wind-swept, complementing her poised and confident expression as she glances sideways. Behind her, a blurred urban backdrop features a yellow taxi and pedestrians, with buildings displaying varied architectural details in neutral tones. The scene utilizes soft ambient daylight filtering through light cloud cover, producing a muted, overcast lighting effect. The warm, earthy color palette consists of brown, black, and touches of beige. The image, likely from a high-resolution digital camera, presents a wide-angle view that maintains focus throughout, emphasizing a dynamic and fashionable feel.
+```
+
+**Source:** [AIwithSarah_](https://x.com/AIwithSarah_/status/2047234995627172229?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 61: Based on the video content and this current frame, use GPT to generate a YouTube thumbnail
+
+![Case 61](images/case_case61/output.jpg)
+
+**Prompt:**
+```
+Based on the video content and this current frame, use GPT to generate a YouTube thumbnail that fits the video. You can reference the style of the image I gave you, but replace the logo on the right side of AE with theChatCut logo. I'll attach the logo for you.
+```
+
+**Source:** [chatcutapp](https://x.com/chatcutapp/status/2047228386117128475?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 62: A professional product photography shot of a cold sparkling water
+
+![Case 62](images/poster_case62/output.jpg)
+
+**Prompt:**
+```
+A professional product photography shot of a cold sparkling water
+can placed upright in golden beach sand. The can is silver and teal,
+covered in realistic water droplets condensation, with a pineapple
+illustration and tropical branding. The can is slightly tilted,
+planted in a small mound of fine golden sand with tiny white pebbles
+and small green tropical leaves/grass scattered around the base.
+Background features a bold split composition - bright sky-blue on
+the left and vivid yellow on the right, with a large blurred real
+pineapple placed behind the can on the right side. A blurred tropical
+palm leaf drapes in from the upper left corner, adding depth and
+framing. Macro-level water condensation droplets visible on the
+can surface. Lighting is bright, vibrant, commercial studio lighting
+with clean shadows. Shallow depth of field - can in sharp focus,
+background softly blurred. Mood: summer, tropical, fresh, refreshing.
+Commercial product photography, ultra-detailed, 8K.
+```
+
+**Source:** [meng_dagg695](https://x.com/meng_dagg695/status/2047227172486824002?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 63: based on the generated character help me generate a screenshot of screenshot of an pvp gam
+
+![Case 63](images/ui_case63/output.jpg)
+
+**Prompt:**
+```
+based on the generated character help me generate a screenshot of screenshot of an pvp game themed around *zelda: wind breaker*
+```
+
+**Source:** [khaiinit](https://x.com/khaiinit/status/2047219694130827273?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 64: Create a landing page using this image as a reference for style and color grading.”
+
+![Case 64](images/ui_case64/output.jpg)
+
+**Prompt:**
+```
+Create a landing page using this image as a reference for style and color grading.
+```
+
+**Source:** [D_studioproject](https://x.com/D_studioproject/status/2047212826264211540?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 65: Generate an image of the most significant event of 2020
+
+![Case 65](images/case_case65/output.jpg)
+
+**Prompt:**
+```
+Generate an image of the most significant event of 2020
+```
+
+**Source:** [Rufus87078959](https://x.com/Rufus87078959/status/2047211900769878234?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 66: Edit this image so that total amount changes to 244.5 baht. You can change the quantity of
+
+![Case 66](images/case_case66/output.jpg)
+
+**Prompt:**
+```
+Edit this image so that total amount changes to 244.5 baht. You can change the quantity of each of the stacks of coins until we hit the target total.
+```
+
+**Source:** [elliscrosby](https://x.com/elliscrosby/status/2047211507596071235?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 67: Generate an image of the most significant event of 2001
+
+![Case 67](images/case_case67/output.jpg)
+
+**Prompt:**
+```
+Generate an image of the most significant event of 2001
+```
+
+**Source:** [Rufus87078959](https://x.com/Rufus87078959/status/2047210051216011682?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 68: a Final Fantasy VIII Remake gameplay screenshot at next-gen fidelity (FF16 / GTA6 / RE9).
+
+
+
+**Prompt:**
+```
+a Final Fantasy VIII Remake gameplay screenshot at next-gen fidelity (FF16 / GTA6 / RE9).
+```
+
+**Source:** [bonega_ai](https://x.com/bonega_ai/status/2047208708459966846?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 69: Generate an image of the most significant event of 2025.
+
+![Case 69](images/case_case69/output.jpg)
+
+**Prompt:**
+```
+Generate an image of the most significant event of 2025.
+```
+
+**Source:** [Rufus87078959](https://x.com/Rufus87078959/status/2047207923005227078?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 70: Create the most realistic front page design of a vintage newspaper featuring the main char
+
+![Case 70](images/portrait_case70/output.jpg)
+
+**Prompt:**
+```
+Create the most realistic front page design of a vintage newspaper featuring the main character. The layout should be made in the style of a real printed newspaper with a cinematic black-and-white aesthetic.
+The main photo should be prominently placed in the center, framed, like the image in the title of the article. The subject in the photo should remain unchanged and clearly distinguishable in natural light and slightly increased contrast in order to match the spectacular editorial style.
+Create a bold, attention-grabbing headline at the top (create a unique title that matches the spirit of the photo - it can be romantic, mysterious, funny, or dramatic). Add a smaller subtitle under it, which will look like a real newspaper caption.
+Add realistic newspaper elements:
+Columns of small text (in the style of lorem ipsum, but framed like real news)
+At the top is the fictitious name of the publication (for example, The Daily Prompts, AI Times or similar - think creatively, according to the picture)
+Date, issue number and location
+Decorative lines, dividers, and vintage typography
+Small additional articles or captions to the main image
+Optional stamps, doodles, or editorial notes to add personality.
+Style:
+Black and white or slightly faded monochrome paper
+Fine paper texture, grain, and ink defects
+Small shadows and creases that mimic real printed paper
+The aesthetics of a clean but slightly worn vintage newspaper
+Mood: Give the design personality, expressiveness and plot, as if the plot is part of the main article.
+Aspect ratio: 4:5 or 1:1
+High-detail, ultra-realistic hybrid of editorial photography and print design.
+```
+
+**Source:** [Naiknelofar788](https://x.com/Naiknelofar788/status/2047207812800147647?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 71: Create image of Magazine feature article [travel] guide page, cute, information dense phot
+
+![Case 71](images/portrait_case71/output.jpg)
+
+**Prompt:**
+```
+Create image of Magazine feature article [travel] guide page, cute, information dense photo book style magazine feature article page. Add all necessary sections, tips, recommendations, information. add photos for any sections and recommendations if you like. Place the attached person at the precise location of [city, country]. Seamlessly blend the attached person as if they are sightseeing. Approach this task with the understanding that this is a critical, information rich page that will significantly influence visitor numbers, text accuracy is important. Fully use the entire [9:16] page. NEGATIVE PROMPT: coordinate texts @swiat_ai @ProfitAII
+```
+
+**Source:** [andis13](https://x.com/andis13/status/2047204384811921764?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 72: Create a commercial ad from the storyboard @[image1]
+
+
+
+**Prompt:**
+```
+Create a commercial ad from the storyboard @[image1]
+```
+
+**Source:** [aimikoda](https://x.com/aimikoda/status/2047198655371759973?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 73: Wykorzystaj wszystko, co o mnie wiesz, i stwórz infografikę przedstawiającą mnie. Zrób to 
+
+![Case 73](images/case_case73/output.jpg)
+
+**Prompt:**
+```
+Wykorzystaj wszystko, co o mnie wiesz, i stwórz infografikę przedstawiającą mnie. Zrób to w stylu komiksu franko-belgijskiego.
+Idea: @icreatelife
+```
+
+**Source:** [andis13](https://x.com/andis13/status/2047197275525701937?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 74: 360度 equirectangular （正距円筒図法）画像を2:1で生成
+
+![Case 74](images/case_case74/output.jpg)
+
+**Prompt:**
+```
+360度 equirectangular （正距円筒図法）画像を2:1で生成
+参照画像だと正確な円筒図にならない？もっと試してみないと。
+```
+
+**Source:** [rs_elwood](https://x.com/rs_elwood/status/2047194375000932456?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 75: 360度 equirectangular （正距円筒図法）画像を2:1で生成
+
+![Case 75](images/poster_case75/output.jpg)
+
+**Prompt:**
+```
+360度 equirectangular （正距円筒図法）画像を2:1で生成
+
+Online 360° Panorama Viewer VR
+```
+
+**Source:** [rs_elwood](https://x.com/rs_elwood/status/2047192228758692036?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 76: Conociendo todo lo que sabes sobre mí, crea una infografía de mí. Haz una imagen en estilo
+
+![Case 76](images/case_case76/output.jpg)
+
+**Prompt:**
+```
+Conociendo todo lo que sabes sobre mí, crea una infografía de mí. Haz una imagen en estilo cartoon anime.
+```
+
+**Source:** [aitorwilzig](https://x.com/aitorwilzig/status/2047190320064925845?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 77: analyze this photo and give me a detailed JSON prompt that recreates it. break down the co
+
+![Case 77](images/portrait_case77/output.jpg)
+
+**Prompt:**
+```
+analyze this photo and give me a detailed JSON prompt that recreates it. break down the color grading and every exact color in the photo
+
+(use Opus, not Sonnet. Opus has stronger visual analysis and writes more detailed JSON)
+
+paste that JSON into ChatGPT
+upload your product image and prompt:
+using this JSON as reference, generate a person holding my product
+save that generated photo as your character reference
+
+attach it to every future generation for facial consistency
+
+you now have a consistent UGC model that works across any product
+
+the JSON controls the lighting and color grading. GPT image-2 handles the character. you control the product placement.
+
+the #1 tell on AI photos is flat colors and a grainy look. this method removes both.
+5 minutes to set up. unlimited variations after.
+```
+
+**Source:** [pavellaslov](https://x.com/pavellaslov/status/2047182214304055339?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 78: CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-green film po
+
+![Case 78](images/portrait_case78/output.jpg)
+
+**Prompt:**
+```
+CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-green film pouches and translucent ampoules with matte silver caps, product placed centrally with clear branding CALMING GREEN TEA -- 7 Days to Soothed Skin, pastel green background with botanical graphic accents, three minimal icons (leaf, wave, balance) floating around the product to emphasize benefits, photographic, hyper detailed, ultra realistic, lifelike, 8k, high detail, soft professional lighting.
+```
+
+**Source:** [ZaraIrahh](https://x.com/ZaraIrahh/status/2047180061657452601?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 79: Ultra-realistic product photography of a rich strawberry soft-serve ice cream in a crispy 
+
+![Case 79](images/portrait_case79/output.jpg)
+
+**Prompt:**
+```
+Ultra-realistic product photography of a rich strawberry soft-serve ice cream in a crispy waffle cone, styled with a clean, modern premium aesthetic. The soft serve is a vibrant natural pink, thick and creamy, sculpted into a smooth swirl with a softly curled peak, lightly topped with delicate strawberry dust or tiny fruit specks for a fresh, appetizing look. The cone has a rustic, crunchy texture with slightly uneven edges for an artisanal feel.
+The background is soft beige with natural sunlight casting subtle leaf shadows, creating a calm, organic atmosphere. Include softly blurred greenery in the foreground for depth. The composition is minimal, balanced, and uses negative space effectively, similar to high-end American food brand ads.
+On the left side, include modern English typography in a clean, elegant layout (not vertical).
+Main headline:
+Sweet Strawberry Bliss.
+Supporting line (smaller text):
+Made with real strawberries. Smooth. Creamy. Irresistible.
+Add a small circular badge showing the price:
+$5.80.
+Lighting: soft natural daylight, warm highlights, shallow depth of field, high-end commercial food photography style.
+Mood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert branding.
+```
+
+**Source:** [ZaraIrahh](https://x.com/ZaraIrahh/status/2047179916161212542?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 80: A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a minimal woode
+
+![Case 80](images/portrait_case80/output.jpg)
+
+**Prompt:**
+```
+A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a minimal wooden desk with soft natural daylight. The screen shows a clean SaaS dashboard with elegant typography, glassmorphism cards, smooth gradients, subtle drop shadows, and neatly spaced components. Visible charts, analytics panels, sidebar navigation, and micro-interactions. Realistic macOS-style window frame, soft reflections on the screen, shallow depth of field, cozy workspace atmosphere, shot in photorealistic product photography style, ultra-detailed.
+```
+
+**Source:** [ZaraIrahh](https://x.com/ZaraIrahh/status/2047179669011616172?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 81: Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young man with a slim
+
+![Case 81](images/portrait_case81/output.jpg)
+
+**Prompt:**
+```
+Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young man with a slim skinny body, lean physique, narrow shoulders and waist, standing confidently in front of a blue 2017 Ford Mustang GT Convertible with a bold red soft top roof, captured from a high-angle aerial perspective exactly like a luxury driveway photoshoot. Keep face 100% identical to reference image with exact facial structure, natural skin texture, realistic pores, authentic expression, no beautification, no facial modification. Same modern textured side-swept quiff hairstyle with heavy natural volume on top, deep side flow, messy yet controlled texture, soft matte finish, visible natural hair strands, softly blended sides.
+
+The subject stands centered near the front bumper of the Mustang GT, hands inside hoodie pockets, relaxed shoulders, straight posture, slight head tilt upward toward camera, confident calm expression, wearing oversized premium black hoodie with realistic cotton texture, natural folds, hanging drawstrings, loose dark washed black denim jeans with soft wrinkles and stacked hems, clean white sneakers with realistic leather texture and sole details, black slim rectangular sunglasses.
+
+Car must be a detailed 2017 Ford Mustang GT Convertible, metallic electric blue paint, glossy reflections on hood, visible Mustang pony grille emblem, aggressive headlights, muscular hood sculpting, aerodynamic front bumper, black alloy wheels, premium red convertible fabric roof, realistic windshield reflections, detailed side mirrors, authentic tire tread, showroom-clean finish
+
+Scene set in an upscale villa driveway with light beige hexagonal stone pavement, curved border with fresh green grass on left side, tropical palm leaves entering frame from top corners, subtle luxury outdoor atmosphere. Soft natural daylight, diffused afternoon lighting, realistic shadows under car and body, soft reflections on paintwork, cinematic premium color grading, natural contrast, shallow depth separation while maintaining environment clarity. Shot on 35mm lens, vertical composition, full body framing, crisp details, hyper-realistic DSLR quality, zero Al look, natural skin rendering, realistic hair strands, fabric texture, stone surface texture, luxury lifestyle mood. stylish text AmanZaid at the bottom-left corner, signature style
+
+Negative Prompt:
+
+face changed, different identity, beautified face, edited face, smooth plastic skin, fake skin glow, wrong hairstyle, short hair, fade haircut, buzzcut, messy deformed hair, female features, muscular body, fat body, broad shoulders, bad anatomy, long neck, short legs, extra fingers, missing fingers, mutated hands, distorted arms, broken posture, crossed eyes, lazy eye, bad sunglasses, blurry face, low resolution, pixelated, noisy image, overexposed, underexposed, harsh shadows, unrealistic reflections, fake car shape, wrong car model, damaged car, extra wheels, warped Mustang logo, incorrect. proportions, bad pavement texture, background artifacts, duplicate objects, watermark, logo errors, text artifacts, cropped feet, cut car, unnatural perspective, CGI render, cartoon style, painting, Al artifacts, oversaturated colors, motion blur, lens distortion 1664x2080-ar 4:5
+```
+
+**Source:** [harboriis](https://x.com/harboriis/status/2047175250761433416?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 82: Soft poetic children's book illustration with watercolor and gouache textures.Clear gentle
+
+![Case 82](images/poster_case82/output.jpg)
+
+**Prompt:**
+```
+Soft poetic children's book illustration with watercolor and gouache textures.Clear gentle daylight with slightly brighter highlights.Muted pastel colors with soft blue and warm tones.Visible brush strokes and paper grain.Minimalist composition with large negative space.Calm, thoughtful, slightly open-ended atmosphere.
+
+Child character (around 12 years old).Subtle visual metaphors like light, shadow, perspective, reflection.Hand-painted picture book style, not cartoon, not anime, not 3D.
+
+Two children in calm conversation,soft connection forming.
+```
+
+**Source:** [dotey](https://x.com/dotey/status/2047174895293849972?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 83: Research LIME Drug Design and make a detailed infographic about it
+
+![Case 83](images/case_case83/output.jpg)
+
+**Prompt:**
+```
+Research LIME Drug Design and make a detailed infographic about it
+```
+
+**Source:** [WillSpagnoli](https://x.com/WillSpagnoli/status/2047172976463040851?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 84: 生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物
+
+![Case 84](images/case_case84/output.jpg)
+
+**Prompt:**
+```
+生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物
+```
+
+**Source:** [laogeai](https://x.com/laogeai/status/2047228458351120625?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 85: Aspect Ratio: 9:16 Vertical
+
+![Case 85](images/poster_case85/output.jpg)
+
+**Prompt:**
+```
+Aspect Ratio: 9:16 Vertical
+
+【IDENTITY & REALISM (CRITICAL PRIORITY)】
+
+The subject is an adult female whose facial features and bone structure must 100% perfectly match the provided FACE_REF image. Eye spacing, nose bridge, jawline, and cheekbone structure must be exact; no identity drift is allowed. Skin texture must be photorealistic, showing pores and fine details—do not over-smooth or apply an Instagram filter look.
+
+【PHOTOGRAPHY & CINEMATOGRAPHY】
+
+A high-end editorial fashion photograph with a cinematic quality, rivaling covers of Vogue, Harper’s Bazaar, or ELLE.
+
+Lens & Focus: Use an 85mm lens (for medium shot) or 50mm/70mm (for full body) with a shallow depth of field. The subject's eyes must be perfectly sharp.
+
+Lighting: Natural winter daylight supplemented by soft, professional fill light. Gold ornaments and precious stones should have realistic specular highlights without being blown out. Embroidery textures must be incredibly sharp and tactile.
+
+Color Grading: Rich, cinematic colors. The red walls and the attire's main color must be distinct and clean, not muddy. The overall image should feel deep, textured, and expensive.
+
+Composition: A clean magazine cover layout with deliberate negative space at the top or sides for typography. No torn paper or hand-drawn effects.
+
+【SETTING: FORBIDDEN CITY WINTER】
+
+The location is a red-walled long corridor in the Beijing Forbidden City.
+
+Environment: Visible details include vermilion walls, red pillars, intricate carved windows, and painted wooden beams with strong perspective depth. The scene must be clean: no tourists, modern signs, or watermarks.
+
+Weather Condition (Selected Randomly):
+
+[If Snowfall selected]: Fine snowflakes are gently falling.
+
+[If Post-Snow selected]: The air is crisp and clear, with remnant snow on the eaves and steps.
+
+【WARDROBE: MING DYNASTY HEAVY INDUSTRY COUTURE】
+
+The subject wears opulent, multi-layered Ming Dynasty ceremonial Hanfu. The aesthetic is gold-heavy, dense tassels, phoenix crown, large-area woven gold embroidery, complex layering, dignified and luxurious.
+
+Structure: A visible, crisp white standing inner collar provides a clean boundary. Over this is a structured duijin ao (jacket) with wide sleeves, topped by a heavy xiapei/pibo (stole) structure held by a large central yajin ornament.
+
+Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with palpable fiber texture. The embroidery is heavy industry—using panjin goldwork, couched gold
+```
+
+**Source:** [GeekCatX](https://x.com/GeekCatX/status/2047220831491858766?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 86: 社交App匹配成功界面，两个用户资料卡碰撞爱心特效
+
+![Case 86](images/case_case86/output.jpg)
+
+**Prompt:**
+```
+社交App匹配成功界面，两个用户资料卡碰撞爱心特效
+```
+
+**Source:** [songguoxiansen](https://x.com/songguoxiansen/status/2047220490486612450?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 87: 帮我生成一个介绍杭州西湖的海报
+
+![Case 87](images/poster_case87/output.jpg)
+
+**Prompt:**
+```
+帮我生成一个介绍杭州西湖的海报
+```
+
+**Source:** [BNBOKBt5](https://x.com/BNBOKBt5/status/2047210189741605082?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 88: 李佳琦直播间背景，口红矩阵展示墙，暖光氛围灯，文案"OMG买它
+
+![Case 88](images/ui_case88/output.jpg)
+
+**Prompt:**
+```
+李佳琦直播间背景，口红矩阵展示墙，暖光氛围灯，文案OMG买它
+```
+
+**Source:** [songguoxiansen](https://x.com/songguoxiansen/status/2047207826913972518?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 89: 图片1：电影角色海报，东方不败红衣饮酒，悬崖落日，武侠意境
+
+![Case 89](images/poster_case89/output.jpg)
+
+**Prompt:**
+```
+图片1：电影角色海报，东方不败红衣饮酒，悬崖落日，武侠意境
+
+图片2：东方不败绣花针如飞，红衣长发立于悬崖，黑木崖夕阳如血
+```
+
+**Source:** [songguoxiansen](https://x.com/songguoxiansen/status/2047204566559756707?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 90: 图片1：大话西游海报重制为90年代港片风格，至尊宝紫霞城墙拥吻，胶片颗粒
+
+![Case 90](images/poster_case90/output.jpg)
+
+**Prompt:**
+```
+图片1：大话西游海报重制为90年代港片风格，至尊宝紫霞城墙拥吻，胶片颗粒
+
+图片2：杜蕾斯吉祥物×猪八戒，八戒害羞脸红遮面，文案取经路上要安全
+```
+
+**Source:** [songguoxiansen](https://x.com/songguoxiansen/status/2047201597697245252?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 91: 吕布游戏Boss设定，赤兔马方天画戟，暗黑进化形态双形态对比
+
+![Case 91](images/case_case91/output.jpg)
+
+**Prompt:**
+```
+吕布游戏Boss设定，赤兔马方天画戟，暗黑进化形态双形态对比
+```
+
+**Source:** [songguoxiansen](https://x.com/songguoxiansen/status/2047198090009190441?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 92: 玄幻小说封面，哪吒三头六臂悬浮虚空，火焰莲台底座，暗黑史诗风
+
+![Case 92](images/case_case92/output.jpg)
+
+**Prompt:**
+```
+玄幻小说封面，哪吒三头六臂悬浮虚空，火焰莲台底座，暗黑史诗风
+```
+
+**Source:** [songguoxiansen](https://x.com/songguoxiansen/status/2047196508270084104?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 93: 新中式极简东方美学 × 高端商业插画，主题“一花一世界”，
+
+![Case 93](images/case_case93/output.jpg)
+
+**Prompt:**
+```
+新中式极简东方美学 × 高端商业插画，主题一花一世界，
+极简，克制，空灵，高级商业视觉，超现实东方意境，
+画面干净通透，无灰雾、无脏色，
+
+一朵巨大的荷花作为空间容器，从平静水面自然生长，轻微倾斜，构图优雅留白充足，
+
+低饱和干净粉色，柔和胭脂调，花瓣半透明，轻盈通透，
+哑光低对比，边缘柔化 + 轻微景深，
+
+荷花内部为唯一视觉焦点：发光的3D微缩广州城市，包含：广州塔，珠江新城建筑群，猎德大桥，珠江水岸，少量岭南建筑，
+
+城市超精细结构，真实材质，极高细节清晰度，城市高光是暖金色，城市阴影是冷青蓝，形成冷暖对比，
+
+灯光通透有能量，局部高饱和但不泛滥，城市亮度明显高于荷花，
+
+水面清澈极简平静，仅少量柔和涟漪，弱反射，
+
+背景暖米白宣纸质感，无水墨、无笔触，大面积留白，
+中心有极轻微光晕渐变，整体通透、不灰、不闷，
+
+画面下方一艘极简小船，船上一位红衣渔女，极小比例，
+静立仰望荷花，红色为唯一高纯度点缀，
+
+整体光线通透、干净、有层次，无灰雾、无泛白，
+高端CG商业插画，电影级真实光影，高动态范围，超精细，8K细节，ArtStation 级画质，强化分色，干净调色，青橙对比，暖高光冷暗部，仅城市灯光提亮饱和度，色调柔和通透，光影锐利明亮，无灰雾、无暗沉、无低饱和雾化。
+```
+
+**Source:** [liyue_ai](https://x.com/liyue_ai/status/2047180347448914195?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 94: 苏妲己古风写真，红色纱衣半透，狐耳若隐若现，媚态撩人
+
+![Case 94](images/case_case94/output.jpg)
+
+**Prompt:**
+```
+苏妲己古风写真，红色纱衣半透，狐耳若隐若现，媚态撩人
+```
+
+**Source:** [nidiedeba](https://x.com/nidiedeba/status/2047147223281270878?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 95: 结合鲁迅的《朝花夕拾》里的内容，生成一副图片，要求图片背景符合《朝花夕拾》的意境，背景图可以使用蒙版，前景是 鲁迅的全身画像位于图片左侧或右侧
+
+![Case 95](images/case_case95/output.jpg)
+
+**Prompt:**
+```
+结合鲁迅的《朝花夕拾》里的内容，生成一副图片，要求图片背景符合《朝花夕拾》的意境，背景图可以使用蒙版，前景是 鲁迅的全身画像位于图片左侧或右侧
+```
+
+**Source:** [Aurora_62340](https://x.com/Aurora_62340/status/2047139992355680530?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 96: 地铁上低头看手机的美丽女人，偷拍照片。
+
+![Case 96](images/case_case96/output.jpg)
+
+**Prompt:**
+```
+地铁上低头看手机的美丽女人，偷拍照片。
+
+能免费试一次 ⬇️
+```
+
+**Source:** [AntCaveClub](https://x.com/AntCaveClub/status/2047136306485133428?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 97: 中国航天纪念邮票小全张，火箭发射场景，烫金边框工艺
+
+![Case 97](images/case_case97/output.jpg)
+
+**Prompt:**
+```
+中国航天纪念邮票小全张，火箭发射场景，烫金边框工艺
+```
+
+**Source:** [songguoxiansen](https://x.com/songguoxiansen/status/2047129703702802811?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 98: 9:16 竖版，极致武侠风，绝美东方女侠，20岁出头，冷艳锐利丹凤眼，眉宇英气逼人，肤白如玉，长直黑发湿漉漉随狂风剧烈飞舞，几缕发丝贴在脸颊和颈侧，穿着湿透的深黑改良武侠劲装，外披
+
+![Case 98](images/case_case98/output.jpg)
+
+**Prompt:**
+```
+9:16 竖版，极致武侠风，绝美东方女侠，20岁出头，冷艳锐利丹凤眼，眉宇英气逼人，肤白如玉，长直黑发湿漉漉随狂风剧烈飞舞，几缕发丝贴在脸颊和颈侧，穿着湿透的深黑改良武侠劲装，外披宽袖玄色长袍，衣袍和长袖被风吹得剧烈飘扬翻飞，紧身劲装勾勒身材，腰束软剑带，足踏长靴，右手持一把古剑，剑身散发幽蓝剑气光芒，动态姿势：身体微侧回眸，衣袂猎猎，背景为月夜雨雾笼罩的竹林古道，巨大明月高悬，石板小径，古灯笼，薄雾雨丝，戏剧性冷月光与蓝光剑气结合，湿身水光效果，超强动态感，细腻布料褶皱、头发丝飘动、真实水珠反光，电影级光影，8k，masterpiece, best quality, ultra realistic, cinematic, dramatic atmosphere
+```
+
+**Source:** [CoderDaMing](https://x.com/CoderDaMing/status/2047127585256358221?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 99: 根据佛经对观音菩萨的形象描述，原原本本的还原一张真实的观音菩萨形象照片，皮肤与衣服接近真实，画质iPhone 15 pro
+
+![Case 99](images/case_case99/output.jpg)
+
+**Prompt:**
+```
+根据佛经对观音菩萨的形象描述，原原本本的还原一张真实的观音菩萨形象照片，皮肤与衣服接近真实，画质iPhone 15 pro
+```
+
+**Source:** [Zhaoge01](https://x.com/Zhaoge01/status/2047123570485260753?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 100: 唐代长安城元宵灯会全景，万盏花灯照亮夜空，工笔重彩长卷
+
+![Case 100](images/case_case100/output.jpg)
+
+**Prompt:**
+```
+唐代长安城元宵灯会全景，万盏花灯照亮夜空，工笔重彩长卷
+```
+
+**Source:** [songguoxiansen](https://x.com/songguoxiansen/status/2047122441454096527?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 101: 根据真实历史对杨玉环的形象描述，生成一张杨贵妃真实照片，画质为iPhone 15 pro
+
+![Case 101](images/case_case101/output.jpg)
+
+**Prompt:**
+```
+根据真实历史对杨玉环的形象描述，生成一张杨贵妃真实照片，画质为iPhone 15 pro
+```
+
+**Source:** [Zhaoge01](https://x.com/Zhaoge01/status/2047110776897638568?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 102: 参考这张图的透视和风格，绘制一张更加精细的超高清插画，表现超现实主义的日式未来都市，要能看清很小的细节，包括街道上的传统文化游行的人，小巷里的黑帮，烟花巷的舞女，疲惫的社畜，楼房的
+
+![Case 102](images/case_case102/output.jpg)
+
+**Prompt:**
+```
+参考这张图的透视和风格，绘制一张更加精细的超高清插画，表现超现实主义的日式未来都市，要能看清很小的细节，包括街道上的传统文化游行的人，小巷里的黑帮，烟花巷的舞女，疲惫的社畜，楼房的窗户里也有各式各样的人物，学习的学生，吵架的夫妻，玩游戏的宅男，以及更多的发挥细节。讽刺现实拥挤中的无聊，都市繁华下的孤独，无意义的人生中又有一种病态的美感。画面要有极高的审美价值 ，不能因为拼内容而损失美和协调感，比例是9:16
+```
+
+**Source:** [Tresmort](https://x.com/Tresmort/status/2047105322863460496?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 103: 西游记女儿国诱惑海报，六位艳丽的女儿国大臣在后宫温泉中，迷雾朦胧妖冶，生成图片
+
+![Case 103](images/poster_case103/output.jpg)
+
+**Prompt:**
+```
+西游记女儿国诱惑海报，六位艳丽的女儿国大臣在后宫温泉中，迷雾朦胧妖冶，生成图片
+
+4.23早上测试成功
+```
+
+**Source:** [cj858cjsoul](https://x.com/cj858cjsoul/status/2047103956535697822?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 104: 生成鹿鼎记海报，展现韦小宝跟老婆XXX，忠于原著的描述，夸大特点，强调女性的美艳和男性的气质
+
+![Case 104](images/poster_case104/output.jpg)
+
+**Prompt:**
+```
+生成鹿鼎记海报，展现韦小宝跟老婆XXX，忠于原著的描述，夸大特点，强调女性的美艳和男性的气质
+```
+
+**Source:** [caiziboshi](https://x.com/caiziboshi/status/2047091751731519744?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 105: generate an image of a racing car poster with its spec and pricing
+
+![Case 105](images/poster_case105/output.jpg)
+
+**Prompt:**
+```
+generate an image of a racing car poster with its spec and pricing
+```
+
+**Source:** [verysmallwoods](https://x.com/verysmallwoods/status/2047033599229137126?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 106: 重新生成一张海报，卓别林拿着商品图里的止痒膏，面露微笑。风格要简约干净。”
+
+![Case 106](images/poster_case106/output.jpg)
+
+**Prompt:**
+```
+重新生成一张海报，卓别林拿着商品图里的止痒膏，面露微笑。风格要简约干净。
+
+左边是 GPT-image-2 右边是
+```
+
+**Source:** [chenenpei](https://x.com/chenenpei/status/2046985783715025135?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 107: 狐妖小红娘涂山雅雅写真大片，粉色九尾狐裘紧身裙，媚眼如丝，红唇微张，极致妖媚
+
+![Case 107](images/case_case107/output.jpg)
+
+**Prompt:**
+```
+狐妖小红娘涂山雅雅写真大片，粉色九尾狐裘紧身裙，媚眼如丝，红唇微张，极致妖媚
+```
+
+**Source:** [sdjn_wgc](https://x.com/sdjn_wgc/status/2046981757325475954?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 108: 生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物
+
+![Case 108](images/case_case108/output.jpg)
+
+**Prompt:**
+```
+生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物
+```
+
+**Source:** [LVWANGJI_0327](https://x.com/LVWANGJI_0327/status/2046974302227206525?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 109: 东方幻想风格女性，半身肖像，回眸侧脸，气质空灵优雅，柔和神性美感，细腻五官，微垂眼神，冷白细腻肌肤，淡雅橘粉妆容，金色高光点缀
+
+![Case 109](images/case_case109/output.jpg)
+
+**Prompt:**
+```
+东方幻想风格女性，半身肖像，回眸侧脸，气质空灵优雅，柔和神性美感，细腻五官，微垂眼神，冷白细腻肌肤，淡雅橘粉妆容，金色高光点缀
+
+长发飘动，发丝中融入彩色花朵与光粒（红、蓝、橙、紫），头发具有流动感与空气感
+
+身穿半透明丝绸礼服与披肩，材质轻盈通透，布料随风飘动，表面带有鎏金纹理与闪耀颗粒。
+
+整体光影为暖金色逆光，强边缘光，体积光明显，光粒漂浮，柔光泛光，梦幻氛围
+
+背景干净浅色渐变，带微光与粒子效果，整体氛围空灵、梦境、神圣
+
+风格：高端CG插画，超精细，电影级光影，柔光渲染，8K细节，artstation 热门作品风格
+```
+
+**Source:** [liyue_ai](https://x.com/liyue_ai/status/2046962895775580442?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 110: 9:16 竖向构图，单人女性艺术肖像，年轻东方女生，五官清秀，脸部线条柔和，皮肤自然通透，保留真实肌理，气质安静高级，带一点疏离感和故事感。
+
+![Case 110](images/case_case110/output.jpg)
+
+**Prompt:**
+```
+9:16 竖向构图，单人女性艺术肖像，年轻东方女生，五官清秀，脸部线条柔和，皮肤自然通透，保留真实肌理，气质安静高级，带一点疏离感和故事感。
+摄影棚风格与自然光融合，柔和侧光，面部有细腻高光，阴影轻柔，整体光线通透不刺眼，带轻微黑雾滤镜效果，微朦胧、微泛光、空气感强。
+背景极简干净，奶油灰、米白、浅卡其或雾感暖灰色墙面，留有大面积负空间，整体画面简洁、有呼吸感。
+模特坐在地面或低台上，一条腿自然弯曲，一条腿放松伸展，身体轻微前倾或侧倾，肩膀不对称，头部轻轻倾斜，动作自然松弛，不刻意摆拍。
+表情平静克制，眼神柔和，略微疏离，带一点若有所思的情绪，嘴唇自然微张或轻闭，状态慵懒、安静、细腻。
+发型为自然蓬松的长发，微凌乱碎发，发丝轻柔，有空气感和层次感，像刚整理过但保留自然随性感。
+妆容为高级淡妆，韩系清透底妆，皮肤柔雾光泽，鼻梁与面颊有自然高光，眉形干净，眼妆淡雅但有神，睫毛纤长，唇色为低饱和玫瑰豆沙色或奶茶裸粉色。
+服装为简约高级风：米白色紧身罗纹针织背心，外搭宽松白衬衫或柔软针织开衫，下装为高腰半裙或简约短裤，布料柔软贴合身形但不过分暴露，呈现自然身体线条与文艺感。
+画面强调细腻质感、柔和色调、轻法式与韩系杂志感结合，真实摄影感，电影级肤色，细节丰富，层次分明，构图克制，高级审美，时尚 编辑人像，柔和的电影感人像，细腻的质感，超高细节，逼真，优雅，精致，高端时尚摄影，含蓄的性感，简洁的构图。
+```
+
+**Source:** [zhiyangzhu22222](https://x.com/zhiyangzhu22222/status/2046952985562062888?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 111: 图片1：汽车人全员月球基地集结，地球悬于身后星空，赛博坦旗帜飘扬
+
+![Case 111](images/case_case111/output.jpg)
+
+**Prompt:**
+```
+图片1：汽车人全员月球基地集结，地球悬于身后星空，赛博坦旗帜飘扬
+
+图片2：霸天虎全员列阵外星战舰甲板，威震天坐于王座俯视全军
+```
+
+**Source:** [songguoxiansen](https://x.com/songguoxiansen/status/2046952548469530716?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 112: 一颗/一块/一枚【食物名称】，以博物学大师发现野外标本的方式解剖。
+
+![Case 112](images/case_case112/output.jpg)
+
+**Prompt:**
+```
+一颗/一块/一枚【食物名称】，以博物学大师发现野外标本的方式解剖。
+剖开、展开、固定——如同博物馆的珍贵藏品，
+却以卡拉瓦乔为《国家地理》掌镜时的光线照亮。
+每一个内部结构都以自身的材质真相发光。
+截面锋利得近乎暴力。内部美丽得近乎神圣。
+画面中呈现完整标本：
+一半保持原状，展示【外表面描述：质感/颜色/纹理】；
+另一半剖开至核心，【内部核心结构描述：最重要的1—2个内部视觉特征】清晰可见。
+【补充1—2句该食物最具视觉张力的横截面细节描述】
+背景：纯粹的黑丝绒。
+【食物名称】悬浮其中，如同某件珍贵而危险的事物。
+标注文字紧贴结构边缘，手写感衬线字体，绝不悬空飘浮。
+画面包含以下标注，每处标注三行：第一行结构名称，第二行成分数据，第三行一句人话：
+【结构01名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+
+【结构02名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+【结构03名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+【结构04名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+【结构05名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+
+【结构06名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+省略其他如果有继续保持这个格式
+主标题，左上角，暖象牙白大写字体：
+【食物名称】·解剖
+
+斜体副标题紧随其下：
+【一句揭示这种食物本质的话，不超过15字】
+
+整体气质：奥杜邦博物插画×卡拉瓦乔光影×有史以来最美的科学摄影。
+4K精度，标本照明，极致内部细节。
+没有任何临床感，一切都鲜活。
+写实风格，非示意图，非卡通，非简化图解。
+每一种材质都有真实的物理质感：
+粗糙的、光滑的、湿润的、干燥的、致密的、疏松的。
+```
+
+**Source:** [GeekCatX](https://x.com/GeekCatX/status/2046939656244318676?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 113: ポラロイド写真の中に人が写っていて、その人がフレームから外に飛び出している画像。日本語が書いてある画像生成して
+
+![Case 113](images/case_case113/output.jpg)
+
+**Prompt:**
+```
+ポラロイド写真の中に人が写っていて、その人がフレームから外に飛び出している画像。日本語が書いてある画像生成して
+
+←下の画像
+GPT Image-2で生成したやつ→
+```
+
+**Source:** [MajaDesignJP](https://x.com/MajaDesignJP/status/2047235632934928765?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 114: 参照画像の２Dセルアニメキャラクターを使って、リアル世界で色んなことしてるグリッド分割した画像作ってぇ。
+
+![Case 114](images/case_case114/output.jpg)
+
+**Prompt:**
+```
+参照画像の２Dセルアニメキャラクターを使って、リアル世界で色んなことしてるグリッド分割した画像作ってぇ。
+```
+
+**Source:** [seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru/status/2047227021156356500?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 115: 「このポスターを見みて、自分で妄想してトレーラー映像を作ってくれ。」
+
+![Case 115](images/case_case115/output.jpg)
+
+**Prompt:**
+```
+「このポスターを見みて、自分で妄想してトレーラー映像を作ってくれ。」
+```
+
+**Source:** [os_shim](https://x.com/os_shim/status/2047130379409400148?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 116: 可愛いラバーダックの男の子「ルヒア(RUHiA)」が日本を目指して大冒険をして日本人女性の「ミライ」と出会うまでの物語。それを実写映画のポスターのようにして。
+
+![Case 116](images/case_case116/output.jpg)
+
+**Prompt:**
+```
+可愛いラバーダックの男の子「ルヒア(RUHiA)」が日本を目指して大冒険をして日本人女性の「ミライ」と出会うまでの物語。それを実写映画のポスターのようにして。
+
+参照画像入れてないのに女性もミライの雰囲気に似てない？
+```
+
+**Source:** [mirai_ai2050](https://x.com/mirai_ai2050/status/2046944941583270341?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
+
+### Case 117: /gpt-image-2 帮我生成关于西红柿的全套产品电商介绍图片
+
+![Case 117](images/case_case117/output.jpg)
+
+**Prompt:**
+```
+/gpt-image-2 帮我生成关于西红柿的全套产品电商介绍图片
+
+使用地址
+```
+
+**Source:** [Adam38363368936](https://x.com/Adam38363368936/status/2047165092253532461?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+
+---
