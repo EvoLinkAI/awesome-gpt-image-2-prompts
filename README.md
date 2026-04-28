@@ -42,6 +42,7 @@ If you find this useful, consider giving it a star. ⭐
 
 ## News
 
+- **April 29, 2026:** Added 8 new GPT-Image-2 prompt cases (2 portrait, 6 poster) and synced localized prompt entries for Cases 102 and 103
 - **April 26, 2026:** Added 9 new GPT-Image-2 prompt cases (1 character, 7 poster, 1 ui)
 - **April 25, 2026:** Added 81 new GPT-Image-2 prompt cases (2 character, 20 portrait, 42 poster, 17 ui)
 - **April 24, 2026:** Added 19 new GPT-Image-2 prompt cases (6 comparison, 6 poster, 7 ui)
@@ -50,7 +51,6 @@ If you find this useful, consider giving it a star. ⭐
 - **April 19, 2026:** Added 5 new GPT-Image-2 prompt cases (3 poster, 2 ui)
 - **April 17, 2026:** Added 1 new GPT-Image-2 prompt cases (1 poster)
 - **April 16, 2026:** Added 1 new GPT-Image-2 prompt cases (1 poster)
-- **April 25, 2026:** Added 22 new GPT-Image-2 prompt cases across portrait, poster, and UI sections
 - **April 23, 2026:** Standardized case titles in `README.md` and all localized README files, including menu entries, anchors, and case headings
 - **April 21, 2026:** Categorized 48 new prompt cases into the gallery sections and downloaded linked output images
 - **April 21, 2026:** Added 12 new GPT-Image-2 prompts across portrait, poster, UI, and comparison cases
@@ -150,6 +150,8 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 99: Dreamy Underwater Woman With Translucent Fish (by @kotobukigraphic)](#case-99-dreamy-underwater-woman-with-translucent-fish-by-kotobukigraphic)
   - [Case 100: Japanese Classroom Long Hair Snapshot (by @Hair_Hair55)](#case-100-japanese-classroom-long-hair-snapshot-by-hair_hair55)
   - [Case 101: Cozy Catgirl Pajama Night Portrait (by @yume00112211)](#case-101-cozy-catgirl-pajama-night-portrait-by-yume00112211)
+  - [Case 102: Collectible Figure Workspace Photo (by @Shinning1010)](#case-102-collectible-figure-workspace-photo-by-shinning1010)
+  - [Case 103: Rainy Bus Stop Portrait (by @harboriis)](#case-103-rainy-bus-stop-portrait-by-harboriis)
 - [🖼️ Poster & Illustration Cases](#poster-illustration-cases)
   - [Case 1: Boston Spring 2026 City Poster (by @BubbleBrain)](#case-1-boston-spring-2026-city-poster-by-bubblebrain)
   - [Case 2: Vintage Amalfi Travel Poster (by @WolfRiccardo)](#case-2-vintage-amalfi-travel-poster-by-wolfriccardo)
@@ -243,6 +245,12 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 163: Japanese Sci-Fi Suit-Up Process Board (by @yy7482933910896)](#case-163-japanese-sci-fi-suit-up-process-board-by-yy7482933910896)
   - [Case 164: Dreamy Shibuya Bubble Girl (by @terunari)](#case-164-dreamy-shibuya-bubble-girl-by-terunari)
   - [Case 165: Stormy Tropical City With Rooftop Plane (by @Gerry)](#case-165-stormy-tropical-city-with-rooftop-plane-by-gerry)
+  - [Case 168: Outdoor Sportswear Grid Campaign (by @SPEEDAI07)](#case-168-outdoor-sportswear-grid-campaign-by-speedai07)
+  - [Case 169: Topographic Letter Satellite Panels (by @madpencil_)](#case-169-topographic-letter-satellite-panels-by-madpencil_)
+  - [Case 170: Iced Coffee Product Infographic (by @Strength04_X)](#case-170-iced-coffee-product-infographic-by-strength04_x)
+  - [Case 171: Fashion Dress Collection Infographic (by @cellinlab)](#case-171-fashion-dress-collection-infographic-by-cellinlab)
+  - [Case 172: Monochrome Fashion Cover (by @sha_zdiii)](#case-172-monochrome-fashion-cover-by-sha_zdiii)
+  - [Case 173: Fast Food Character Poster (by @LoovaAI)](#case-173-fast-food-character-poster-by-loovaai)
 - [🎭 Character Design Cases](#character-design-cases)
   - [Case 1: Anime Snapshot Conversion (by @Thereallo1026)](#case-1-anime-snapshot-conversion-by-thereallo1026)
   - [Case 2: Persona5 Character Reference Card (by @iamrednightS)](#case-2-persona5-character-reference-card-by-iamrednights)
@@ -1974,6 +1982,54 @@ A candid, photorealistic Japanese high school classroom scene in vertical smartp
 A soft anime-style bedroom portrait of {argument name="character name" default="Nekomata Okayu"}, shown from the chest up sitting on a bed at night, centered in the frame. She has short fluffy {argument name="hair color" default="lavender"} hair with layered bangs partially covering one eye, large cat ears on top of her head with white inner fur, and a cute sleepy catgirl appearance. Her expression is gentle and relaxed, with one hand raised near her cheek in a shy, cozy pose. She wears oversized {argument name="pajama color" default="light lavender"} button-up pajamas with dark purple piping, a small chest pocket, and paw-print shaped buttons and paw-print decoration on the pocket. The room is lit with dreamy purple ambient lighting. In the background, show a nighttime window with a crescent moon and stars visible outside, soft curtains, a bedside table with a glowing cat-shaped lamp, a neatly rumpled bed with pillows and blankets in matching purple tones, and a small framed wall picture featuring a simple cat face and hearts. Use a cute pastel palette, soft shading, polished digital anime rendering, subtle highlights in the hair, intimate cozy composition, and a calm bedtime atmosphere.
 ```
 
+<!-- Case 102: Collectible Figure Workspace Photo (by @Shinning1010) -->
+### Case 102: [Collectible Figure Workspace Photo](https://x.com/Shinning1010/status/2049068188399227174) (by [@Shinning1010](https://x.com/Shinning1010))
+
+| Output |
+| :----: |
+| <img src="./images/portrait_case102/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Photorealistic high-quality studio photo of a modern digital art workspace, showing the concept of “from 3D virtual character to real collectible figure.”
+
+In the foreground, a highly realistic collectible figurine of [Character Name / Character Identity] is placed on a round wooden display stand. The character has [facial features / appearance], [hairstyle], and a [expression / personality vibe]. The figure is wearing [outfit / costume]. The overall design is refined, premium, and instantly recognizable. The figurine should have realistic collectible statue quality, with subtle resin/sculpture material feel, while still looking highly believable and visually realistic.
+
+The pose is [character pose], natural, stable, elegant, and display-worthy. Shot from a low-angle close-up perspective with slight wide-angle distortion, vertical composition, emphasizing the full figure, clothing structure, leg lines, and pose.
+
+In the background, there is a professional 3D character design workstation with two large curved monitors. Both monitors must show the exact same character as the foreground figurine — same face, same hairstyle, same outfit, same pose, and same overall vibe — clearly expressing the idea of turning a digital 3D character into a real physical figure.
+
+The left monitor shows a gray sculpt / clay model view in a professional 3D sculpting software interface, similar to ZBrush. The gray model must match the foreground figure exactly in character design, pose, outfit structure, and facial identity.
+
+The right monitor shows the fully rendered colored version of the same character, also matching the foreground figure exactly in face, hairstyle, outfit, pose, and temperament. Together, the two monitors reinforce the workflow of “digital character design → physical collectible statue.”
+
+On the desk are a keyboard, mouse, monitor arms, drawing tablet, stylus, and other 3D modeling tools. The workspace is clean, professional, and visually premium. Optional extra elements: [weapon / accessories / theme props / IP-style design details].
+
+Lighting is a mix of soft studio lighting and indoor workspace lighting. The foreground figurine is evenly lit with clear facial and material detail, while the monitors emit cool-toned tech light. Overall mood is realistic, clean, premium, slightly shallow depth of field, ultra-detailed, emphasizing the collectible figure quality, professional 3D design studio atmosphere, and the visual concept of “from digital model to real figure.”
+
+photorealistic, ultra detailed, cinematic studio lighting, realistic figurine, collectible statue, 3D character design studio, from digital model to real figure, vertical composition
+```
+
+<!-- Case 103: Rainy Bus Stop Portrait (by @harboriis) -->
+### Case 103: [Rainy Bus Stop Portrait](https://x.com/harboriis/status/2049081194156020046) (by [@harboriis](https://x.com/harboriis))
+
+| Output |
+| :----: |
+| <img src="./images/portrait_case103/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A cinematic nighttime photo of [your photo as reference] sitting alone at a wet bus
+
+stop bench, eating a burger. Rain-soaked street with orange bokeh city lights
+
+reflecting on the ground. Neon tube lights overhead. Red jacket, tan corduroy
+
+pants. Moody, dark, atmospheric street photography.
+```
+
 ## Poster & Illustration Cases
 
 <!-- Case 1: Boston Spring 2026 City Poster (by @BubbleBrain) -->
@@ -2758,7 +2814,7 @@ Commercial product photography, ultra-detailed, 8K.
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case75/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case60/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -3027,7 +3083,7 @@ Avant-garde sports fashion advertisement, oversized tennis racket positioned lik
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case75/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case60/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -3650,6 +3706,187 @@ A dreamy anime-style full-body illustration of a fashionable young woman standin
 
 ```
 A cinematic wide aerial view of a tropical coastal city at sunset during a violent storm, split dramatically between dark storm clouds on the left and blazing golden sunlight on the right. In the foreground, a small single-engine light airplane with a high wing and visible tail is parked or perched precariously on a flat rooftop, seen from behind and slightly above, centered near the bottom of the frame. To the left midair, 1 helicopter flies low over the city with its searchlight cast downward. In the sky, include 1 faint lightning bolt on the far left. The city below is dense with wet streets, reflective pavement, low-rise commercial buildings, and a few taller modern towers, including 1 prominent striped high-rise near the center. A glowing red circular neon sign is visible near the middle distance. On the right side, a calm bay or inlet curves through the city, lined with 1 row of tall palm trees along the waterfront road, and crossed by 1 long low bridge in the distance. The water and streets glisten from recent rain, reflecting the orange sunlight breaking through the clouds. Mood is tense, dramatic, and slightly surreal, like a movie still from an urban disaster thriller. Photorealistic, ultra-detailed, high dynamic range lighting, volumetric sun rays, storm atmosphere, wet surfaces, rich contrast, deep shadows, golden highlights, wide-angle lens, epic composition.
+```
+
+<!-- Case 168: Outdoor Sportswear Grid Campaign (by @SPEEDAI07) -->
+### Case 168: [Outdoor Sportswear Grid Campaign](https://x.com/SPEEDAI07/status/2049081198211736062) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case168/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A dynamic 2×2 grid collage of modern outdoor sportswear advertising posters, each panel representing a different adventure lifestyle brand. High-energy, editorial-style composition with bold typography and textured graphic design.
+
+Top-left panel:
+Athletic male model in a bright blue insulated winter jacket, black snow pants, gloves, and sunglasses, stepping forward in a snowy environment. Snow particles flying, dramatic motion. Background features rough blue paint brush strokes. Bold distressed typography reads: “NEVER STOP EXPLORING.” Additional small text: “Built for extremes.” High contrast, rugged winter exploration theme.
+
+Top-right panel:
+Fit male hiker climbing rocky terrain, wearing an olive green shirt, black trekking pants, and a large black backpack with orange straps. Dust and debris kicking up from the ground. Background includes orange paint strokes and sketched mountain graphics. Bold text: “BUILT FOR HERE – INDIA TESTED.” Handwritten Hindi accents and arrows. Warm earthy tones.
+
+Bottom-left panel:
+Calm outdoor scene with a male model sitting on a rock, wearing a green jacket, beanie, sunglasses, and hiking shoes. Minimal scenic mountain illustration in the background with soft green tones. Typography reads: “ESCAPE THE NOISE – JUST GO OUTSIDE.” Clean, relaxed, nature-focused aesthetic with subtle graphic elements.
+
+Bottom-right panel:
+Energetic female runner in motion wearing a purple athletic t-shirt, black shorts, and running shoes. Bright, playful background with purple and yellow paint splashes, doodles, arrows, and sun illustration. Bold typography: “READY FOR EVERYONE – START YOUR JOURNEY.” Youthful, vibrant fitness energy.
+
+Overall style:
+
+High-resolution, photorealistic sportswear campaign
+
+Bold brushstroke textures and grunge overlays
+
+Mixed typography: distressed, handwritten, and modern sans-serif
+
+Strong color blocking per panel (blue, orange, green, purple)
+
+Dynamic poses conveying motion, strength, and adventure
+
+Clean grid layout with balanced spacing
+
+Commercial advertising / brand campaign aesthetic (Nike, Decathlon style)
+
+Lighting: Professional, cinematic lighting with sharp detail and contrast
+Mood: Energetic, adventurous, motivational
+Aspect ratio: 1:1 (square collage)
+```
+
+<!-- Case 169: Topographic Letter Satellite Panels (by @madpencil_) -->
+### Case 169: [Topographic Letter Satellite Panels](https://x.com/madpencil_/status/2049080259476349218) (by [@madpencil_](https://x.com/madpencil_))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case169/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Ultra-realistic satellite view from space, a clean modern editorial layout of 9 vertical panels arranged side-by-side on a white background, together forming the word "MADPENCIL", each panel containing one letter created entirely from natural Earth topography, no artificial text overlays:
+
+Panel 1 (M): rugged mountain ranges and deep valleys forming a sharp, angular "M", rocky textures, high elevation shadows
+Panel 2 (A): winding river cutting through dense green forest forming an organic "A", strong contrast between water and vegetation
+Panel 3 (D): desert dunes and wind-sculpted sand patterns shaping a smooth "D", warm tones, soft gradients
+Panel 4 (P): agricultural farmland grids and patchwork fields forming a structured "P", geometric patterns clearly visible
+Panel 5 (E): glacier and ice formations carving a crisp "E", bright whites and icy blues, fractured textures
+Panel 6 (N): braided river system across floodplains forming "N", branching channels with natural flow lines
+Panel 7 (C): coastal shoreline and ocean edge shaping a curved "C", waves and sediment gradients visible
+Panel 8 (I): narrow canyon or straight river cutting through terrain forming a minimal "I", strong vertical emphasis
+Panel 9 (L): volcanic terrain with lava flows forming an "L", dark rock with glowing red/orange lava accents
+
+top-down satellite perspective, NASA Earth observation style, hyper-detailed textures, realistic geography, consistent scale and lighting across all panels, minimal clouds, high contrast, sharp focus, subtle atmospheric haze, natural color grading, ultra high resolution 8K, clean spacing between panels, modern gallery-style composition, visually cohesive but each panel distinctly different biome, letters clearly readable yet organically integrated into terrain
+```
+
+<!-- Case 170: Iced Coffee Product Infographic (by @Strength04_X) -->
+### Case 170: [Iced Coffee Product Infographic](https://x.com/Strength04_X/status/2049082049995362785) (by [@Strength04_X](https://x.com/Strength04_X))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case170/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A high-end café-style product photograph of a transparent glass filled with iced coffee, centered against a soft beige and cream seamless studio background. The drink shows a rich dark coffee base blending with creamy milk swirls, creating a smooth gradient effect. Several clear ice cubes are visible with realistic transparency and light refraction. The glass has subtle condensation droplets, adding freshness. Soft natural studio lighting creates delicate highlights and a clean shadow beneath the glass. Ultra-sharp focus, premium beverage advertisement style, DSLR macro photography, hyper realistic, 8K.
+
+PROMPT 2 - Create a hyper-realistic exploded vertical infographic composition of an iced coffee.
+
+Top → Bottom structure:
+Foam Layer (light creamy foam with soft airy texture)
+→ Coffee Liquid (rich dark espresso layer with smooth gradient)
+→ Ice Cubes (transparent cubes with sharp edges and reflections)
+→ Milk Layer (soft creamy white layer with smooth blend effect)
+→ Glass Base (clear minimal glass structure)
+
+All elements must be perfectly centered, evenly spaced, and aligned vertically. Use a soft beige seamless background with clean café-style lighting and subtle realistic shadows beneath each floating element. The composition should feel like a premium beverage ad combined with a clean infographic layout.
+
+Add clean minimalist text labels with thin pointer lines using these exact labels:
+“Foam”
+“Coffee”
+“Ice”
+“Milk”
+“Glass”
+Ultra-realistic liquid detail, sharp reflections, premium commercial photography, 8K.
+```
+
+<!-- Case 171: Fashion Dress Collection Infographic (by @cellinlab) -->
+### Case 171: [Fashion Dress Collection Infographic](https://x.com/cellinlab/status/2049073530738754042) (by [@cellinlab](https://x.com/cellinlab))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case171/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+{
+  "image_type": "Commercial Fashion Infographic",
+  "subject": {
+    "model": "Young Asian woman with elegant features and dark hair tied in a loose bun",
+    "attire": "Satin midi dress with spaghetti straps and a draped cowl neckline",
+    "fit": "Bodycon / slim fit with side ruching and a subtle leg slit"
+  },
+  "layout_structure": {
+    "composition": "Multi-panel editorial layout",
+    "header": "Bold serif typography reading 'DRESS COLLECTION'",
+    "main_feature": "Large centered portrait of the model, a young Asian woman, wearing a wine-red satin dress",
+    "secondary_panels": [
+      "Dress Features grid with minimalist icons",
+      "Dress Guide sidebar detailing neckline, sleeve, and length",
+      "Color Collection row showing the dress in Black, Emerald Green, Navy, Champagne, and Royal Blue",
+      "Dress Style Guide footer featuring the model in various atmospheric evening settings"
+    ]
+  },
+  "aesthetic_style": {
+    "color_palette": "Deep jewel tones (Wine Red, Emerald, Navy, Royal Blue) contrasted with Champagne and Black against a warm cream or beige background",
+    "lighting": "Soft studio lighting with elegant highlights on the satin fabric texture",
+    "vibe": "Luxurious, timeless, and sophisticated commercial advertising"
+  },
+  "typography": {
+    "primary": "Classic Serif for titles",
+    "secondary": "Clean Sans-Serif for body text and technical details"
+  }
+}
+```
+
+<!-- Case 172: Monochrome Fashion Cover (by @sha_zdiii) -->
+### Case 172: [Monochrome Fashion Cover](https://x.com/sha_zdiii/status/2049088961008848905) (by [@sha_zdiii](https://x.com/sha_zdiii))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case172/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Ultra-realistic high-fashion magazine cover, black and white cinematic portrait of a confident young female model, slightly messy wet-look hair, sharp jawline, intense gaze, natural glossy lips, wearing a premium black leather trench coat over a minimal outfit.
+The model is posing slightly tilted forward with attitude, hands adjusting the coat, accessorized with multiple rings, ear piercings, and layered chain necklaces.
+Lighting is dramatic studio lighting with soft shadows, high contrast, editorial Vogue-style aesthetic, ultra-detailed skin texture, 8K resolution, sharp focus.
+Background is minimal gradient grey with soft light streaks for depth.
+Magazine cover layout included:
+Large bold serif title at top: “VOID ELITE”
+Subtitle small: “Edition 07 / 2026”
+Left text: “NOT BUILT TO FOLLOW — BUILT TO DOMINATE”
+Bottom left: “HIGH-FASHION STREET LUXURY”
+Right vertical text: “UNTOUCHABLE PRESENCE”
+Bottom right: “SILENCE IS POWER”
+Add a small holographic glitch-style label over the eyes with text “ICON”
+Style: luxury fashion editorial, Vogue, Harper’s Bazaar, monochrome aesthetic, modern typography, clean layout, ultra premium branding
+--ar 2:3 --style raw --quality 2 --sharp focus --photorealistic
+```
+
+<!-- Case 173: Fast Food Character Poster (by @LoovaAI) -->
+### Case 173: [Fast Food Character Poster](https://x.com/LoovaAI/status/2049085173015425354) (by [@LoovaAI](https://x.com/LoovaAI))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case173/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Use the character in image 1 as the main subject. Create a vertical poster ad in American fast food diner style. Low angle, wide lens. Red / yellow / white palette with ketchup splashes, melting cheese graphics, comic burst shapes, retro diner typography, and bold fast food poster collage aesthetic.
 ```
 
 ## Character Design Cases
