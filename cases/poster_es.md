@@ -1798,3 +1798,171 @@ Create a cinematic 3:4 vertical poster of New York City that feels truly epic an
 infográfico ASCII DENGUE
 ```
 
+<!-- Case 184: Miniature City Knot Sculpture (by @Gdgtify) -->
+### Case 184: [Miniature City Knot Sculpture](https://x.com/Gdgtify/status/2051274139378315546) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case184/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+GPT Image 2 + Kling = 🔥 This was done for Tokyo. 
+
+[VAR_CITY] = "Tokyo, Japan"     [NODE 1: BASE_TOPOLOGY] Generate a complex, self-intersecting 3D endless loop (e.g., a thick Trefoil Knot or Gordian Knot). Material_Output: Raw, unfinished layered birch plywood. Visible wood grain.  [NODE 2: INSTANCER_LOGIC] AI_INFERENCE_TRIGGER: Analyze [VAR_CITY]. Extract its iconic architectural style, specific landmarks, and road infrastructure.  Action: Instance these urban elements directly onto the surface normals of the [BASE_TOPOLOGY].  [NODE 3: GRAVITY_WARP] The gravity vector is strictly relative to the surface of the knot. Buildings must project outward from the wood, regardless of whether the surface is facing up, down, or sideways. The roads must follow the curvature perfectly. Tiny metallic cars dot the highways.  [RENDER_ENGINE] Execute Tree. Output as a physical macro-photography studio shot. The object sits on a blank museum pedestal. Soft, diffuse top-lighting. Shallow depth of field to emphasize the miniature scale.
+```
+
+<!-- Case 185: Taiwanese Food Blog Spread (by @aiistudiocom) -->
+### Case 185: [Taiwanese Food Blog Spread](https://x.com/aiistudiocom/status/2051271666429473079) (by [@aiistudiocom](https://x.com/aiistudiocom))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case185/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A cozy restaurant table filled with a vibrant Taiwanese meal, shot in warm natural lighting. A large bowl of braised beef noodle soup with wide noodles, tender beef chunks, bok choy, and green onions sits in the foreground. Surrounding dishes include a bowl of rice topped with raw egg yolk, seaweed, kimchi, and chopped vegetables; a plate of Taiwanese fried chicken and tofu with greens; stir-fried water spinach with garlic; and a small dish of marinated vegetables. A tall elegant glass dessert with shrimp salad layered inside stands in the center. Wooden table surface, ceramic bowls, and a teapot in the background create a homely aesthetic. Handwritten-style Chinese text annotations and doodles are scattered around the dishes, adding a playful, lifestyle-blog feel. Soft depth of field, warm tones, high detail, food photography style.
+```
+
+<!-- Case 186: Alien Disclosure Dossier (by @Gdgtify) -->
+### Case 186: [Alien Disclosure Dossier](https://x.com/Gdgtify/status/2051262563426459707) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case186/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+I asked GPT Image 2 to spill the beans on alien life. 
+
+do this for alien disclosure: <instruction>
+Role: You are "The Declassification Officer," creating visually compelling intelligence dossiers.
+
+Goal: Produce a single vertical declassified case-file image about the chosen subject.
+
+Phase 1: Subject Classification
+- Analyze the input subject and reinterpret it as a high-priority intelligence target, anomaly, person of interest, secret invention, or unexplained event.
+- Assign:
+  - Case ID
+  - Threat level
+  - Classification level
+  - Status (active, missing, monitored, contained, unresolved)
+
+Phase 2: Document Structure
+Design the image as a realistic but stylized dossier page with the following sections:
+- Header: agency-style title, case number, classification stamp.
+- Mugshot or main visual of the subject.
+- Summary paragraph.
+- Notable traits or observed abilities.
+- Timeline of 3–5 incidents.
+- Redacted notes.
+- Location sightings or evidence callouts.
+- Bottom section with stamp marks, signatures, and warnings.
+
+Phase 3: Visual Style
+- The entire output must be a single image.
+- Style: aged paper, photocopy texture, ink stamps, mild wear, redactions, handwritten annotations, paperclip shadows.
+- Include visual evidence elements such as photo corners, sticky notes, fingerprints, circles, arrows, highlighted lines.
+- Use readable layout and believable bureaucratic typography.
+
+Phase 4: Tone
+- Tone should be suspenseful, intriguing, and slightly cinematic.
+- Can be serious or humorous depending on the input.
+- Keep all content fictionalized if needed.
+
+Output: One high-detail declassified dossier poster as a single finished image.
+</instruction>
+```
+
+<!-- Case 187: Empire Inferno Burger Poster (by @iamsofiaijaz) -->
+### Case 187: [Empire Inferno Burger Poster](https://x.com/iamsofiaijaz/status/2051258805070282960) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case187/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A premium fast food advertisement poster with a cinematic composition and a clean white textured background with soft grey shading for depth.
+At the top center, place a bold, modern logo text: “EMPIRE” with a minimal crown icon above it, sleek and premium typography.
+Below the logo, add a large, dramatic headline in bold modern font:
+“NEW EMPIRE INFERNO BURGER”
+– The word INFERNO should have a fiery texture with flame elements integrated into the typography.
+Add subtext below the headline in smaller clean font:
+“with signature hot sauce”
+Main composition (center focus):
+A hyper-realistic, ultra-detailed crispy chicken burger placed on a wooden board:
+– Thick, golden crunchy fried chicken fillet
+– Melted cheese dripping naturally
+– Fresh green lettuce and sliced jalapeños
+– Glossy toasted sesame bun
+– Spicy sauce visibly oozing out
+– Subtle steam/smoke rising to show heat and freshness
+Additional food items:
+– A premium spicy pizza in the foreground with melted cheese, jalapeños, and spicy toppings
+– A black cup of creamy loaded fries (cheese sauce + jalapeños) placed to the side
+Side element:
+– A sleek glass bottle labeled “EMPIRE Signature Hot Sauce” with a premium black and red label design
+Lighting:
+– High contrast studio lighting
+– Warm highlights on food
+– Soft shadows
+– Slight rim lighting for separation
+Color palette:
+– White and soft grey background
+– Fiery reds and oranges for spice
+– Golden browns for fried textures
+– Deep blacks for contrast elements
+Extra design elements:
+– Minimal spice icons or flame accents
+– Clean, modern layout with strong hierarchy
+Bottom section:
+– Minimal icons and labels like: “Premium Chicken”, “Signature Hot Sauce”, “Fresh Ingredients”
+– NO order button or app store icons
+Style:
+Ultra-realistic, 8K food photography, commercial advertising, sharp focus, dramatic, premium global fast-food branding, highly detailed textures, mouthwatering presentation.
+```
+
+<!-- Case 188: Greek Yogurt Lifestyle Ad (by @LoverCrick28247) -->
+### Case 188: [Greek Yogurt Lifestyle Ad](https://x.com/LoverCrick28247/status/2051196874208800872) (by [@LoverCrick28247](https://x.com/LoverCrick28247))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case188/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Created by using GPT Image 2. 
+
+Prompt👇
+Ultra cinematic hyper-realistic premium dairy lifestyle advertisement, Milky Mist Greek Yogurt Natural cup placed as hero center foreground on glossy white marble counter, lid partially peeled revealing thick creamy yogurt with perfect spiral swirl texture, ultra-detailed micro highlights, condensation droplets on surface, branding ultra sharp
+
+Beautiful confident Indian woman (25–30), glowing natural skin with visible pores, soft blush tones, deep expressive brown eyes, long voluminous dark brown hair wind-blown with golden rim light, wearing minimal elegant light grey fitted t-shirt, leaning forward with both arms on counter framing the product, warm genuine smile, direct eye contact, friendly yet premium presence
+
+Dynamic motion (hero effect): stainless steel spoon lifting thick yogurt upward creating smooth elastic creamy stretch, dramatic milk splash frozen mid-air around cup with suspended droplets (high-speed photography look), ultra realistic fluid physics, cinematic freeze motion
+
+Foreground styling: fresh blueberries in white ceramic bowl, sliced strawberries with juice shine, crunchy granola scattered naturally, wooden spoon, mint leaves, premium editorial food styling (clean but rich composition)
+
+Background: bright modern luxury kitchen interior, large soft window light from left, indoor plants softly blurred, warm cream tones, depth-rich cinematic bokeh, subtle lifestyle realism
+
+Lighting: high-end commercial lighting setup, soft diffused key light from left, strong golden rim light on hair edges, product spotlight glow, deep soft shadows (not flat), HDR highlights on yogurt texture, magazine-level lighting
+
+Composition: 85mm lens, shallow depth of field f/1.8, subject slightly right, product perfectly centered and dominant, rule-of-thirds balance, luxury ad framing
+
+Color palette: pure white, sky blue, navy, fresh green, berry red, warm cream tones, ultra clean premium aesthetic
+
+Style: Vogue-level editorial + Indian dairy commercial campaign, hyper-detailed, photorealistic, 8K ultra HD, crisp textures, luxury brand advertisement
+
+Text overlay (optional, left side):
+“Thick. Creamy. Naturally Healthy.”
+subtext: “High in Protein. Made with Love.”
+elegant serif + modern script combination
+
+--ar 4:5 --style raw --v 6 --q 2
+```
+

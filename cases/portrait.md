@@ -805,3 +805,86 @@ GPT IMAGE 2 on Chat Gpt Prompt : Ultra-realistic portrait of a young woman sitti
 GPT IMAGE 2 ON CHATGPT Prompt: Editorial portrait photography arranged in a 2x2 grid layout featuring the same man with round tortoiseshell glasses, natural look, light beard, soft neutral background. Top-left: front-facing portrait with direct eye contact, calm expression. Top-right: extreme macro close-up of eye behind glasses, ultra-detailed iris and skin texture. Bottom-left: slightly lower angle portrait, subtle expression, soft shadows. Bottom-right: side profile portrait, natural pose, looking away. Soft diffused natural lighting, warm neutral tones, shallow depth of field, ultra-realistic skin texture with visible pores and freckles, minimal retouching, 85mm lens, high-end editorial photography style, clean composition, 4K
 ```
 
+<!-- Case 110: Luxury Golf Editorial Collage (by @AIwithkhan) -->
+### Case 110: [Luxury Golf Editorial Collage](https://x.com/AIwithkhan/status/2051275667354890345) (by [@AIwithkhan](https://x.com/AIwithkhan))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case110/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Three-image luxury golf editorial collage featuring a professional female golfer on a pristine putting green, soft natural daylight, minimalistic and high-end sports photography style, ultra-realistic, cinematic color grading, clean composition, no text, no logos
+Layout: asymmetrical grid (one large frame + two smaller frames)
+Frame 1 (Left – Hero Wide Shot):
+Full-body low-angle shot of the golfer crouching and lining up a putt, golf ball in foreground near the hole, strong leading lines on the green, balanced composition, calm and focused posture, expansive sky background
+Frame 2 (Top Right – Close-Up Detail):
+Extreme close-up of her face and hands gripping the putter, intense concentration, visible skin texture and slight sweat glow, shallow depth of field, blurred background
+Frame 3 (Bottom Right – Action Shot):
+Side angle of golfer completing the putt, smooth follow-through, golf ball rolling across the green, natural motion feel, soft shadows, realistic lighting
+Style Keywords:
+luxury sports campaign, editorial photography, Nike-style aesthetic, muted green tones, sharp focus, 85mm lens look, depth of field, cinematic lighting, premium composition, 4K, hyper-realistic
+```
+
+<!-- Case 111: Selective-Color Editorial Portrait (by @SPEEDAI07) -->
+### Case 111: [Selective-Color Editorial Portrait](https://x.com/SPEEDAI07/status/2051262381733618119) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case111/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+GPT Image 2 on ChatGPT
+
+A studio-style close-up editorial portrait of a person with strong, well-defined facial features and slightly imperfect, natural skin texture. The subject wears a black tailored turtleneck with sharp, clean lines, layered under a high-collared black jacket in a minimalist contemporary fashion style.The subject wears semi-transparent orange acetate sunglasses — rectangular frames with softly rounded edges, glossy finish, and amber gradient lenses — serving as the only colored element in the image.Color concept: selective color photography — monochrome black-and-white image with only the sunglasses in vivid orange.
+Mood is calm and confident, serious expression, direct gaze into the camera.
+Lighting is soft frontal studio light with gentle shadows, even skin tones, cinematic contrast, and visible natural skin texture. Shot on a professional portrait camera, f/2.0, ISO 100, 1/125s. High resolution, ultra-sharp focus on the face.
+```
+
+<!-- Case 112: Analog Idol Portrait (by @BubbleBrain) -->
+### Case 112: [Analog Idol Portrait](https://x.com/BubbleBrain/status/2051253854516478082) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case112/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Realistic analog 35mm film photography, intimate upper-body portrait of a beautiful Japanese female idol with an elegant and subtly sensual aura, side-facing toward the camera, gently turning her head back with a calm, confident yet slightly distant gaze.
+
+She lifts her high ponytail using both hands symmetrically — each hand positioned on opposite sides of her head, naturally gathering and holding the hair. Her elbows extend outward, creating a balanced and elegant silhouette, while emphasizing her shoulder line, neck, and collarbone. The pose feels natural and unposed, like a fleeting candid moment rather than intentional modeling.
+
+Framing: close medium shot from head to waist, slightly imperfect composition, subject slightly off-center, intimate and cinematic.
+
+Outfit: fitted off-shoulder knit top or thin-strap satin camisole, minimal and tasteful, softly contouring the body without being revealing. Delicate earrings, natural glossy lips, clean Korean-style makeup, porcelain skin with visible real texture, micro pores, no over-retouching.
+
+Scene: quiet indoor apartment corner, soft curtains, minimal background, warm ambient tungsten light mixed with faint natural window light, subtle shadow gradients on wall, slightly hazy air catching light.
+
+Lighting: soft side lighting with gentle falloff, natural facial fill, subtle rim light on hair and shoulders, slight highlight bloom, warm cinematic tones.
+
+Style: authentic analog film look (Kodak Portra 400 or Fujifilm Pro 400H feel), soft contrast, muted warm palette, visible organic film grain, fine noise texture, slight lens imperfection, nostalgic cinematic mood, high-end fashion editorial with documentary realism.
+
+Camera: 50mm lens, shallow depth of field, natural skin rendering, realistic proportions, slight focus falloff.
+
+Add a small handwritten signature text "BubbleBrain" at the bottom right corner, subtle and integrated.
+
+--ar 2:3
+```
+
+<!-- Case 113: White Suit Red Backdrop Portrait (by @iamsofiaijaz) -->
+### Case 113: [White Suit Red Backdrop Portrait](https://x.com/iamsofiaijaz/status/2051153792725667873) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case113/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A cinematic, high-fashion portrait of a confident stylish woman wearing an elegant tailored white suit with a high-neck design and sleek oval sunglasses. She is holding a thin medium cigar with soft smoke rising, and a slightly burning King of Hearts playing card with minimal flame detail. Soft wisps of smoke drift upward. The background is a bold, vibrant solid red seamless backdrop. High-key professional studio lighting with soft shadows and gentle warm highlights reflecting on her face. Ultra-realistic skin texture, sharp focus on facial features, shallow depth of field, soft bokeh, 35mm lens look. Crisp contrast, modern editorial fashion photography, clean luxury aesthetic, refined, powerful, and slightly rebellious mood.
+```
+
